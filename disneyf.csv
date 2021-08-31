@@ -1,0 +1,875 @@
+﻿imdb_id,title,type,rated,Year,runtime,genre,actors,language,country,imdb_rating,imdb_votes
+tt7979492,Kim Possible,movie,TV-G,2019,86 min,"Action, Adventure, Comedy","Sadie Stanley, Sean Giambrone, Ciara Riley Wilson, Todd Stashwick",English,USA,3.6,"2,030"
+tt1090750,Dadnapped,movie,TV-G,2009,84 min,"Action, Adventure, Comedy, Crime, Family","Emily Osment, David Henrie, Jason Earles, Jonathan Keltz",English,USA,4.9,"2,634"
+tt0076137,Herbie Goes to Monte Carlo,movie,G,1977,105 min,"Action, Adventure, Comedy, Crime, Family, Romance, Sport","Dean Jones, Don Knotts, Julie Sommars, Jacques Marin","English, French",USA,5.7,"6,553"
+tt0141369,Inspector Gadget,movie,PG,1999,78 min,"Action, Adventure, Comedy, Crime, Family, Sci-Fi","Matthew Broderick, Rupert Everett, Joely Fisher, Michelle Trachtenberg","English, Norwegian, French, Spanish",USA,4.1,"43,808"
+tt2788732,Pete's Dragon,movie,PG,2016,102 min,"Action, Adventure, Comedy, Drama, Family, Fantasy","Bryce Dallas Howard, Robert Redford, Oakes Fegley, Oona Laurence",English,USA,6.7,"52,020"
+tt0114048,Operation Dumbo Drop,movie,PG,1995,107 min,"Action, Adventure, Comedy, Drama, Family, War","Danny Glover, Ray Liotta, Denis Leary, Doug E. Doug","English, Vietnamese",USA,5.1,"8,265"
+tt1181917,The Suite Life on Deck,series,TV-G,2008,30 min,"Action, Adventure, Comedy, Family","Dylan Sprouse, Cole Sprouse, Brenda Song, Debby Ryan",English,USA,6.3,"14,716"
+tt0436339,G-Force,movie,PG,2009,88 min,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi","Bill Nighy, Will Arnett, Zach Galifianakis, Kelli Garner","Spanish, English",USA,5.1,"41,151"
+tt2326087,Girl Vs. Monster,movie,TV-PG,2012,89 min,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi","Olivia Holt, Kerris Dorsey, Brendan Meyer, Katherine McNamara",English,"USA, Canada",5.5,"2,403"
+tt0117110,Muppet Treasure Island,movie,G,1996,99 min,"Action, Adventure, Comedy, Family, Musical, Romance","Tim Curry, Billy Connolly, Jennifer Saunders, Kevin Bishop",English,USA,7.0,"20,293"
+tt0119190,George of the Jungle,movie,PG,1997,92 min,"Action, Adventure, Comedy, Family, Romance","Brendan Fraser, Leslie Mann, Thomas Haden Church, Richard Roundtree","English, Spanish",USA,5.4,"68,409"
+tt0108333,The Three Musketeers,movie,PG,1993,105 min,"Action, Adventure, Comedy, Family, Romance","Charlie Sheen, Kiefer Sutherland, Chris O'Donnell, Oliver Platt",English,"Austria, UK, USA",6.4,"48,683"
+tt0061333,The Adventures of Bullwhip Griffin,movie,APPROVED,1967,108 min,"Action, Adventure, Comedy, Family, Romance, Western","Roddy McDowall, Suzanne Pleshette, Karl Malden, Harry Guardino",English,USA,6.6,603
+tt0119310,"Honey, We Shrunk Ourselves!",movie,PG,1997,74 min,"Action, Adventure, Comedy, Family, Sci-Fi","Rick Moranis, Eve Gordon, Bug Hall, Robin Bartlett",English,USA,5.0,"12,439"
+tt0327437,Around the World in 80 Days,movie,PG,2004,120 min,"Action, Adventure, Comedy, Family, Western","Jackie Chan, Steve Coogan, CÃ©cile de France, Robert Fyfe","English, Cantonese, French, German, Hindi, Turkish","USA, Germany, Ireland, UK",5.9,"82,011"
+tt3501632,Thor: Ragnarok,movie,PG-13,2017,130 min,"Action, Adventure, Comedy, Fantasy, Sci-Fi","Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba",English,USA,7.9,"542,938"
+tt2015381,Guardians of the Galaxy,movie,PG-13,2014,121 min,"Action, Adventure, Comedy, Sci-Fi","Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel",English,USA,8.0,"1,007,917"
+tt3896198,Guardians of the Galaxy Vol. 2,movie,PG-13,2017,136 min,"Action, Adventure, Comedy, Sci-Fi","Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel",English,USA,7.6,"537,920"
+tt0478970,Ant-Man,movie,PG-13,2015,117 min,"Action, Adventure, Comedy, Sci-Fi","Paul Rudd, Michael Douglas, Evangeline Lilly, Corey Stoll",English,USA,7.3,"540,523"
+tt2762970,Cloud 9,movie,TV-G,2014,85 min,"Action, Adventure, Drama, Family, Sport","Luke Benward, Dove Cameron, Mike C. Manning, Kiersey Clemons",English,USA,6.6,"3,482"
+tt0096446,Willow,movie,PG,1988,126 min,"Action, Adventure, Drama, Fantasy, Romance","Val Kilmer, Joanne Whalley, Warwick Davis, Jean Marsh",English,USA,7.3,"97,309"
+tt4154796,Avengers: Endgame,movie,PG-13,2019,181 min,"Action, Adventure, Drama, Sci-Fi","Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth","English, Japanese, Xhosa, German",USA,8.4,"694,527"
+tt0273842,Motocrossed,movie,TV-G,2001,110 min,"Action, Adventure, Family","Alana Austin, Riley Smith, Mary-Margaret Humes, Trever O'Brien",English,USA,6.6,"4,203"
+tt0790781,Wendy Wu: Homecoming Warrior,movie,TV-PG,2006,91 min,"Action, Adventure, Family","Brenda Song, Shin Koyamada, Susan Chuang, Justin Chon","English, Mandarin, Cantonese",USA,5.4,"5,328"
+tt0045197,The Story of Robin Hood and His Merrie Men,movie,APPROVED,1952,84 min,"Action, Adventure, Family","Richard Todd, Joan Rice, Peter Finch, James Hayter",English,UK,6.7,"1,281"
+tt0499448,The Chronicles of Narnia: Prince Caspian,movie,PG,2008,150 min,"Action, Adventure, Family, Fantasy","Ben Barnes, Georgie Henley, Skandar Keynes, William Moseley",English,"USA, Poland, Slovenia, Czech Republic, UK",6.5,"187,627"
+tt5117876,Descendants 2,movie,TV-G,2017,111 min,"Action, Adventure, Family, Fantasy, Romance","Dove Cameron, Cameron Boyce, Sofia Carson, Booboo Stewart",English,USA,6.5,"7,218"
+tt0120751,Mighty Joe Young,movie,PG,1998,114 min,"Action, Adventure, Family, Fantasy, Thriller","Charlize Theron, Bill Paxton, Rade Serbedzija, Peter Firth","English, Swahili",USA,5.6,"26,795"
+tt0465234,National Treasure: Book of Secrets,movie,PG,2007,124 min,"Action, Adventure, Family, Mystery, Thriller","Nicolas Cage, Justin Bartha, Diane Kruger, Jon Voight","English, French",USA,6.5,"212,576"
+tt0102803,The Rocketeer,movie,PG,1991,108 min,"Action, Adventure, Family, Sci-Fi","Billy Campbell, Jennifer Connelly, Alan Arkin, Timothy Dalton","English, German",USA,6.5,"50,945"
+tt0800369,Thor,movie,PG-13,2011,115 min,"Action, Adventure, Fantasy","Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins",English,USA,7.0,"717,145"
+tt1981115,Thor: The Dark World,movie,PG-13,2013,112 min,"Action, Adventure, Fantasy","Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins",English,USA,6.9,"571,192"
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,movie,PG-13,2003,143 min,"Action, Adventure, Fantasy","Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",English,USA,8.0,"992,127"
+tt0449088,Pirates of the Caribbean: At World's End,movie,PG-13,2007,169 min,"Action, Adventure, Fantasy","Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",English,USA,7.1,"577,465"
+tt0383574,Pirates of the Caribbean: Dead Man's Chest,movie,PG-13,2006,151 min,"Action, Adventure, Fantasy","Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport","English, Turkish, Greek, Mandarin, French",USA,7.3,"635,041"
+tt1298650,Pirates of the Caribbean: On Stranger Tides,movie,PG-13,2011,136 min,"Action, Adventure, Fantasy","Johnny Depp, PenÃ©lope Cruz, Geoffrey Rush, Ian McShane","English, Spanish","USA, UK",6.6,"465,510"
+tt1211837,Doctor Strange,movie,PG-13,2016,115 min,"Action, Adventure, Fantasy, Sci-Fi","Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong",English,USA,7.5,"562,696"
+tt0121765,Star Wars: Episode II - Attack of the Clones,movie,PG,2002,142 min,"Action, Adventure, Fantasy, Sci-Fi","Ewan McGregor, Natalie Portman, Hayden Christensen, Christopher Lee",English,USA,6.5,"613,768"
+tt0121766,Star Wars: Episode III - Revenge of the Sith,movie,PG-13,2005,140 min,"Action, Adventure, Fantasy, Sci-Fi","Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid",English,USA,7.5,"681,075"
+tt0120915,Star Wars: Episode I - The Phantom Menace,movie,PG,1999,136 min,"Action, Adventure, Fantasy, Sci-Fi","Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd",English,USA,6.5,"698,744"
+tt2527336,Star Wars: Episode VIII - The Last Jedi,movie,PG-13,2017,152 min,"Action, Adventure, Fantasy, Sci-Fi","Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley",English,USA,7.0,"532,835"
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,movie,PG,1980,124 min,"Action, Adventure, Fantasy, Sci-Fi","Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",English,USA,8.7,"1,109,656"
+tt0086190,Star Wars: Episode VI - Return of the Jedi,movie,PG,1983,131 min,"Action, Adventure, Fantasy, Sci-Fi","Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",English,USA,8.3,"912,250"
+tt0076759,Star Wars: Episode IV - A New Hope,movie,PG,1977,121 min,"Action, Adventure, Fantasy, Sci-Fi","Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing",English,USA,8.6,"1,188,658"
+tt0499549,Avatar,movie,PG-13,2009,162 min,"Action, Adventure, Fantasy, Sci-Fi","Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang","English, Spanish",USA,7.8,"1,086,714"
+tt0368891,National Treasure,movie,PG,2004,131 min,"Action, Adventure, Mystery, Thriller","Nicolas Cage, Diane Kruger, Justin Bartha, Sean Bean","English, Spanish",USA,6.8,"295,236"
+tt4154858,Inhumans,series,TV-PG,2017,43 min,"Action, Adventure, Sci-Fi","Anson Mount, Serinda Swan, Ken Leung, Eme Ikwuakor",English,USA,5.0,"20,672"
+tt4154664,Captain Marvel,movie,PG-13,2019,123 min,"Action, Adventure, Sci-Fi","Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Jude Law",English,"USA, Australia",6.9,"406,778"
+tt1825683,Black Panther,movie,PG-13,2018,134 min,"Action, Adventure, Sci-Fi","Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira","English, Swahili, Nama, Xhosa, Korean",USA,7.3,"579,293"
+tt0458339,Captain America: The First Avenger,movie,PG-13,2011,124 min,"Action, Adventure, Sci-Fi","Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones","English, Norwegian, French",USA,6.9,"711,603"
+tt3498820,Captain America: Civil War,movie,PG-13,2016,147 min,"Action, Adventure, Sci-Fi","Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan","English, German, Xhosa, Russian, Romanian, Hindi",USA,7.8,"628,016"
+tt3748528,Rogue One: A Star Wars Story,movie,PG-13,2016,133 min,"Action, Adventure, Sci-Fi","Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen",English,USA,7.8,"526,836"
+tt2488496,Star Wars: Episode VII - The Force Awakens,movie,PG-13,2015,138 min,"Action, Adventure, Sci-Fi","Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver",English,USA,7.9,"833,706"
+tt3475734,Agent Carter,series,TV-PG,2015,42 min,"Action, Adventure, Sci-Fi","Hayley Atwell, James D'Arcy, Enver Gjokaj, Chad Michael Murray",English,USA,7.9,"69,458"
+tt0084827,TRON,movie,PG,1982,96 min,"Action, Adventure, Sci-Fi","Jeff Bridges, Bruce Boxleitner, David Warner, Cindy Morgan",English,USA,6.8,"110,110"
+tt1104001,TRON: Legacy,movie,PG,2010,125 min,"Action, Adventure, Sci-Fi","Jeff Bridges, Garrett Hedlund, Olivia Wilde, Bruce Boxleitner",English,USA,6.8,"306,175"
+tt8111088,The Mandalorian,series,TV-PG,2019,30 min,"Action, Adventure, Sci-Fi","Pedro Pascal, Carl Weathers, Rio Hackford, Gina Carano",English,USA,8.7,"157,153"
+tt0848228,The Avengers,movie,PG-13,2012,143 min,"Action, Adventure, Sci-Fi","Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth","English, Russian, Hindi",USA,8.0,"1,225,316"
+tt2395427,Avengers: Age of Ultron,movie,PG-13,2015,141 min,"Action, Adventure, Sci-Fi","Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","English, Korean",USA,7.3,"711,205"
+tt1300854,Iron Man 3,movie,PG-13,2013,130 min,"Action, Adventure, Sci-Fi","Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce",English,USA,7.2,"730,917"
+tt1228705,Iron Man 2,movie,PG-13,2010,124 min,"Action, Adventure, Sci-Fi","Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson","English, French, Russian",USA,7.0,"693,517"
+tt0371746,Iron Man,movie,PG-13,2008,126 min,"Action, Adventure, Sci-Fi","Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow","Hungarian, Kurdish, Hindi, English, Persian, Urdu, Arabic",USA,7.9,"910,300"
+tt0401729,John Carter,movie,PG-13,2012,132 min,"Action, Adventure, Sci-Fi","Taylor Kitsch, Lynn Collins, Samantha Morton, Willem Dafoe",English,USA,6.6,"248,903"
+tt1843866,Captain America: The Winter Soldier,movie,PG-13,2014,136 min,"Action, Adventure, Sci-Fi, Thriller","Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford","English, French",USA,7.7,"706,555"
+tt0120317,That Darn Cat,movie,PG,1997,89 min,"Action, Comedy, Crime, Family, Mystery","Christina Ricci, Doug E. Doug, Dean Jones, George Dzundza",English,USA,4.7,"3,952"
+tt0301454,Inspector Gadget 2,movie,G,2003,89 min,"Action, Comedy, Crime, Family, Sci-Fi","French Stewart, Elaine Hendrix, Tony Martin, Caitlin Wachs",English,USA,3.4,"5,423"
+tt1765622,Kickin' It,series,TV-Y7,2011,22 min,"Action, Comedy, Family","Leo Howard, Dylan Riley Snyder, Mateo Arias, Jason Earles",English,USA,6.3,"4,372"
+tt3598030,K.C. Undercover,series,TV-Y7,2015,30 min,"Action, Comedy, Family","Zendaya, Veronica Dunne, Kamil McFadden, Trinitee",English,USA,6.1,"2,979"
+tt0266850,Phantom of the Megaplex,movie,TV-G,2000,89 min,"Action, Comedy, Family, Mystery","Taylor Handley, Corinne Bohrer, Caitlin Wachs, Jacob Smith",English,"USA, Canada",6.5,"2,570"
+tt2025690,The Finest Hours,movie,PG-13,2016,117 min,"Action, Drama, History, Thriller","Chris Pine, Casey Affleck, Ben Foster, Eric Bana",English,USA,6.8,"59,000"
+tt0485985,Red Tails,movie,PG-13,2012,125 min,"Action, Drama, History, War","Terrence Howard, Cuba Gooding Jr., Nate Parker, David Oyelowo","English, Italian, German",USA,5.9,"32,647"
+tt1236246,Runaways,series,TV-14,2017,60 min,"Action, Drama, Sci-Fi","Rhenzy Feliz, Lyrica Okano, Virginia Gardner, Ariela Barer",English,USA,7.0,"20,241"
+tt0207120,Spider-Man Unlimited,series,TV-Y7,1999,22 min,"Action, Family, Adventure, Animation, Thriller, Crime, Sci-Fi","Rino Romano, Kathleen Barr, Paul Dobson, Akiko Morison",English,"USA, Canada",6.4,"2,517"
+tt0078869,The Black Hole,movie,PG,1979,98 min,"Action, Sci-Fi","Maximilian Schell, Anthony Perkins, Robert Forster, Joseph Bottoms",English,USA,6.0,"22,422"
+tt6244108,Continent 7: Antarctica,series,N/A,2016,47 min,Adventure,Chris Browning,English,USA,7.5,93
+tt1836776,The Prince and the Pauper,movie,TV-PG,1981,93 min,Adventure,"Sean Scully, Guy Williams, Jane Asher, Paul Rogers",English,UK,6.2,33
+tt0033124,Swiss Family Robinson,movie,N/A,1940,93 min,Adventure,"Thomas Mitchell, Edna Best, Freddie Bartholomew, Terry Kilburn",English,USA,6.5,324
+tt0056441,"Sammy, the Way-Out Seal: Part 1",episode,UNRATED,1962,89 min,"Adventure, Biography, Drama","Jack Carson, Robert Culp, Patricia Barry, Elisabeth Fraser",English,USA,6.5,140
+tt0090803,Casebusters,episode,UNRATED,1986,120 min,"Adventure, Biography, Drama","Pat Hingle, Noah Hathaway, Virginya Keehne, Gary Riley",English,USA,5.9,50
+tt0166829,The Sultan and the Rock Star,episode,UNRATED,1980,60 min,"Adventure, Biography, Drama","Timothy Hutton, Bruce Glover, Vince Lauria, Ned Romero",English,USA,7.1,12
+tt0561332,The Plausible Impossible,episode,UNRATED,1956,50 min,"Adventure, Biography, Drama","Walt Disney, Leopold Stokowski",English,USA,8.1,14
+tt5116302,Togo,movie,PG,2019,113 min,"Adventure, Biography, Drama, Family, History","Willem Dafoe, Julianne Nicholson, Christopher Heyerdahl, Richard Dormer",English,USA,8.1,"24,630"
+tt0064705,"My Dog, the Thief: Part 1",episode,N/A,1969,88 min,"Adventure, Biography, Drama, Family, Western","Dwayne Hickman, Mary Ann Mobley, Elsa Lanchester, Joe Flynn",English,USA,6.6,77
+tt1754799,The Suite Life Movie,movie,Not Rated,2011,79 min,"Adventure, Comedy, Crime, Drama, Family, Sci-Fi","Cole Sprouse, Dylan Sprouse, Brenda Song, Debby Ryan",English,USA,5.3,"3,051"
+tt0115433,101 Dalmatians,movie,G,1996,103 min,"Adventure, Comedy, Crime, Family","Glenn Close, Jeff Daniels, Joely Richardson, Joan Plowright","English, Spanish","USA, UK",5.7,"97,785"
+tt0082474,The Great Muppet Caper,movie,G,1981,97 min,"Adventure, Comedy, Crime, Family, Musical, Mystery","Jim Henson, Frank Oz, Dave Goelz, Jerry Nelson",English,"UK, USA",7.2,"12,993"
+tt2281587,Muppets Most Wanted,movie,PG,2014,107 min,"Adventure, Comedy, Crime, Family, Musical, Mystery","Ricky Gervais, Ty Burrell, Tina Fey, Steve Whitmire","English, German",USA,6.4,"30,336"
+tt0075807,Candleshoe,movie,G,1977,101 min,"Adventure, Comedy, Drama, Family","David Niven, Helen Hayes, Jodie Foster, Leo McKern",English,"UK, USA",6.8,"3,479"
+tt0107131,Homeward Bound: The Incredible Journey,movie,G,1993,84 min,"Adventure, Comedy, Drama, Family","Don Alder, Ed Bernard, Kevin Chevalia, Anne Christianson",English,USA,6.9,"40,421"
+tt0106223,The Adventures of Huck Finn,movie,PG,1993,108 min,"Adventure, Comedy, Drama, Family","Elijah Wood, Courtney B. Vance, Robbie Coltrane, Jason Robards","English, French",USA,6.2,"7,451"
+tt0997047,College Road Trip,movie,G,2008,83 min,"Adventure, Comedy, Drama, Family","Martin Lawrence, Raven-SymonÃ©, Kym Whitley, Adam LeFevre",English,USA,4.3,"14,974"
+tt0799922,Wizards of Waverly Place,series,TV-G,2007,22 min,"Adventure, Comedy, Drama, Family, Fantasy","Selena Gomez, David Henrie, Jake T. Austin, Jennifer Stone",English,USA,6.8,"27,826"
+tt1369845,Wizards of Waverly Place: The Movie,movie,TV-G,2009,94 min,"Adventure, Comedy, Drama, Family, Fantasy","Selena Gomez, David Henrie, Jake T. Austin, Jennifer Stone",English,USA,6.2,"14,540"
+tt2448374,The Wizards Return: Alex vs. Alex,movie,TV-G,2013,60 min,"Adventure, Comedy, Drama, Family, Fantasy","Selena Gomez, Jake T. Austin, Jennifer Stone, Gregg Sulkin","English, Italian",USA,6.5,"4,934"
+tt6820324,Timmy Failure: Mistakes Were Made,movie,PG,2020,99 min,"Adventure, Comedy, Drama, Family, Fantasy","Winslow Fegley, Ophelia Lovibond, Wallace Shawn, Craig Robinson",English,USA,6.1,"1,300"
+tt0274636,The Luck of the Irish,movie,TV-G,2001,86 min,"Adventure, Comedy, Drama, Family, Fantasy, Sport","Ryan Merriman, Henry Gibson, Alexis Lopez, Glenndon Chatman",English,USA,6.2,"6,337"
+tt8096832,Lady and the Tramp,movie,PG,2019,103 min,"Adventure, Comedy, Drama, Family, Musical, Romance","Tessa Thompson, Justin Theroux, Sam Elliott, Ashley Jensen",English,USA,6.3,"12,134"
+tt0311289,Holes,movie,PG,2003,117 min,"Adventure, Comedy, Drama, Family, Mystery","Sigourney Weaver, Jon Voight, Tim Blake Nelson, Shia LaBeouf",English,USA,7.0,"74,143"
+tt0120783,The Parent Trap,movie,PG,1998,128 min,"Adventure, Comedy, Drama, Family, Romance","Lindsay Lohan, Dennis Quaid, Natasha Richardson, Elaine Hendrix","English, French","USA, UK",6.5,"114,898"
+tt0112302,Tom and Huck,movie,PG,1995,97 min,"Adventure, Comedy, Drama, Family, Romance, Western","Jonathan Taylor Thomas, Brad Renfro, Eric Schweig, Charles Rocket",English,USA,5.5,"9,519"
+tt0049125,Davy Crockett and the River Pirates,movie,APPROVED,1956,81 min,"Adventure, Comedy, Drama, Family, Western","Fess Parker, Buddy Ebsen, Jeff York, Kenneth Tobey",English,USA,6.8,"1,585"
+tt0286639,Fuzzbucket,movie,N/A,1986,46 min,"Adventure, Comedy, Family","Chris Hebert, Phil Fondacaro, Joe Regalbuto, Wendy Phillips",English,USA,7.6,155
+tt0322389,George of the Jungle 2,movie,PG,2003,87 min,"Adventure, Comedy, Family","Christopher Showerman, Julie Benz, Angus T. Jones, Thomas Haden Church",English,"USA, Australia",3.3,"6,039"
+tt0211181,102 Dalmatians,movie,G,2000,100 min,"Adventure, Comedy, Family","Glenn Close, GÃ©rard Depardieu, Ioan Gruffudd, Alice Evans",English,"USA, UK",4.9,"33,444"
+tt0109369,Camp Nowhere,movie,PG,1994,96 min,"Adventure, Comedy, Family","John Putch, Peter Scolari, Romy Windsor, Jonathan Jackson",English,USA,6.1,"8,448"
+tt3856042,Bad Hair Day,movie,TV-G,2015,87 min,"Adventure, Comedy, Family","Laura Marano, Leigh-Allyn Baker, Christian Campbell, Alain Goulem",English,Canada,6.0,"2,363"
+tt4456850,Adventures in Babysitting,movie,TV-G,2016,105 min,"Adventure, Comedy, Family","Sabrina Carpenter, Sofia Carson, Nikki Hahn, Mallory James Mahoney",English,USA,6.0,"2,582"
+tt0080861,Herbie Goes Bananas,movie,G,1980,100 min,"Adventure, Comedy, Family, Fantasy","Cloris Leachman, Charles Martin Smith, John Vernon, Stephen W. Burns","English, Spanish",USA,5.0,"4,958"
+tt0173886,Halloweentown,movie,TV-G,1998,84 min,"Adventure, Comedy, Family, Fantasy","Debbie Reynolds, Kimberly J. Brown, Judith Hoag, Joey Zimmerman",English,USA,6.8,"11,872"
+tt4420110,Invisible Sister,movie,TV-G,2015,80 min,"Adventure, Comedy, Family, Fantasy","Rowan Blanchard, Paris Berelc, Karan Brar, Rachel Crow",English,USA,6.1,"2,240"
+tt0452681,The Santa Clause 3: The Escape Clause,movie,G,2006,97 min,"Adventure, Comedy, Family, Fantasy","Tim Allen, Elizabeth Mitchell, Eric Lloyd, Judge Reinhold",English,"USA, Canada",4.7,"31,254"
+tt0113538,A Kid in King Arthur's Court,movie,PG,1995,89 min,"Adventure, Comedy, Family, Fantasy, Romance","Thomas Ian Nicholas, Joss Ackland, Art Malik, Paloma Baeza",English,"USA, Hungary, UK",4.7,"5,479"
+tt0400497,Herbie Fully Loaded,movie,G,2005,101 min,"Adventure, Comedy, Family, Fantasy, Romance, Sport","Lindsay Lohan, Michael Keaton, Matt Dillon, Breckin Meyer",English,USA,4.8,"43,653"
+tt0106611,Cool Runnings,movie,PG,1993,98 min,"Adventure, Comedy, Family, History, Sport","Leon, Doug E. Doug, Rawle D. Lewis, Malik Yoba","English, German, Russian",USA,7.0,"88,123"
+tt0306841,Lizzie McGuire,movie,PG,2003,94 min,"Adventure, Comedy, Family, Music, Romance","Hilary Duff, Adam Lamberg, Hallie Todd, Robert Carradine","English, Italian",USA,5.5,"34,463"
+tt1204342,The Muppets,movie,PG,2011,103 min,"Adventure, Comedy, Family, Musical","Jason Segel, Amy Adams, Chris Cooper, Rashida Jones",English,USA,7.1,"84,999"
+tt0079588,The Muppet Movie,movie,G,1979,95 min,"Adventure, Comedy, Family, Musical","Jim Henson, Frank Oz, Jerry Nelson, Richard Hunt",English,"UK, USA",7.6,"31,198"
+tt0116552,Homeward Bound II: Lost in San Francisco,movie,G,1996,88 min,"Adventure, Comedy, Family, Romance","Michael J. Fox, Sally Field, Ralph Waite, Al Michaels",English,USA,5.9,"13,127"
+tt0104437,"Honey, I Blew Up the Kid",movie,PG,1992,89 min,"Adventure, Comedy, Family, Romance, Sci-Fi","Rick Moranis, Marcia Strassman, Robert Oliveri, Daniel Shalikar",English,USA,4.8,"39,775"
+tt1072755,Minutemen,movie,TV-G,2008,98 min,"Adventure, Comedy, Family, Sci-Fi","Jason Dolley, Luke Benward, Nicholas Braun, Chelsea Kane",English,USA,5.8,"5,182"
+tt0091059,Flight of the Navigator,movie,PG,1986,90 min,"Adventure, Comedy, Family, Sci-Fi","Joey Cramer, Paul Reubens, Cliff De Young, Veronica Cartwright",English,USA,6.9,"42,322"
+tt0379060,Zenon: Z3,movie,TV-G,2004,81 min,"Adventure, Comedy, Family, Sci-Fi","Kirsten Storms, Lauren Maltby, Alyson Morgan, Stuart Pankin",English,USA,5.5,"2,339"
+tt0186726,Zenon: Girl of the 21st Century,movie,TV-G,1999,97 min,"Adventure, Comedy, Family, Sci-Fi","Kirsten Storms, Raven-SymonÃ©, Stuart Pankin, Holly Fulger",English,USA,6.4,"6,378"
+tt0340281,Phil of the Future,series,TV-G,2004,25 min,"Adventure, Comedy, Family, Sci-Fi","Raviv Ullman, Amy Bruckner, Craig Anton, Lise Simms",English,USA,7.0,"6,479"
+tt0097523,"Honey, I Shrunk the Kids",movie,PG,1989,93 min,"Adventure, Comedy, Family, Sci-Fi","Rick Moranis, Matt Frewer, Marcia Strassman, Kristine Sutherland",English,"USA, Mexico",6.3,"137,074"
+tt5118450,Lab Rats: Elite Force,series,TV-Y7,2016,30 min,"Adventure, Comedy, Family, Sci-Fi","William Brent, Bradley Steven Perry, Jake Short, Paris Berelc",N/A,USA,6.4,837
+tt0281373,Snow Dogs,movie,PG,2002,99 min,"Adventure, Comedy, Family, Sport","Cuba Gooding Jr., James Coburn, SisqÃ³, Nichelle Nichols",English,"Canada, USA",5.2,"24,563"
+tt3816666,Running Wild with Bear Grylls,series,TV-14,2014,60 min,"Adventure, Comedy, Reality-TV, Talk-Show",Bear Grylls,English,USA,7.7,"2,122"
+tt0103247,White Fang,movie,PG,1991,107 min,"Adventure, Drama","Jed, Klaus Maria Brandauer, Ethan Hawke, Seymour Cassel",English,USA,6.7,"18,897"
+tt0057180,The Incredible Journey,movie,G,1963,80 min,"Adventure, Drama, Family","Ã‰mile Genest, John Drainie, Tommy Tweed, Sandra Scott",English,"Canada, USA",7.1,"3,702"
+tt0397313,Eight Below,movie,PG,2006,120 min,"Adventure, Drama, Family","Paul Walker, Bruce Greenwood, Moon Bloodgood, Wendy Crewson",English,USA,7.3,"58,850"
+tt0091566,Mr. Boogedy,episode,TV-PG,1986,46 min,"Adventure, Drama, Family","Richard Masur, Mimi Kennedy, Benji Gregory, David Faustino",English,USA,7.3,1173
+tt0046672,"20,000 Leagues Under the Sea",movie,G,1955,127 min,"Adventure, Drama, Family, Fantasy, Sci-Fi","Kirk Douglas, James Mason, Paul Lukas, Peter Lorre",English,USA,7.2,"27,761"
+tt0054307,The Sign of Zorro,movie,APPROVED,1960,91 min,"Adventure, Drama, Family, Romance, Western","Guy Williams, Henry Calvin, Gene Sheldon, Romney Brent",English,USA,7.1,645
+tt0050798,Old Yeller,movie,APPROVED,1959,83 min,"Adventure, Drama, Family, Western","Dorothy McGuire, Fess Parker, Jeff York, Chuck Connors",English,USA,7.3,"11,270"
+tt0047977,Davy Crockett: King of the Wild Frontier,movie,APPROVED,1955,93 min,"Adventure, Drama, Family, Western","Fess Parker, Buddy Ebsen, Basil Ruysdael, Hans Conried","English, Spanish",USA,7.0,"3,316"
+tt0092638,Benji the Hunted,movie,G,1987,88 min,"Adventure, Family","Benji, Frank Inn, Red Steagall, Nancy Francis",English,USA,6.3,"2,629"
+tt0043067,Treasure Island,movie,PG,1950,96 min,"Adventure, Family","Bobby Driscoll, Robert Newton, Basil Sydney, Walter Fitzgerald",English,UK,6.9,"6,611"
+tt0144262,The Jungle Book: Mowgli's Story,movie,G,1998,77 min,"Adventure, Family","Brandon Baker, Sherman Howard, Clancy Brown, Peri Gilpin",English,USA,4.2,625
+tt2414212,Santa Paws 2: The Santa Pups,movie,G,2012,88 min,"Adventure, Family","Cheryl Ladd, Danny Woodburn, Kaitlyn Maher, Pat Finn",English,USA,4.9,"1,100"
+tt0072728,The Boy Who Talked to Badgers,movie,N/A,1975,N/A,"Adventure, Family","Christian Juttner, Carl Betz, Salome Jens, Denver Pyle",English,USA,6.8,25
+tt0054357,Swiss Family Robinson,movie,G,1960,126 min,"Adventure, Family","John Mills, Dorothy McGuire, James MacArthur, Janet Munro",English,USA,7.2,"13,189"
+tt0097053,Cheetah,movie,G,1989,83 min,"Adventure, Family","Keith Coogan, Lucy Deakins, Colin Mothupi, Timothy Landfield",English,USA,6.1,801
+tt0110157,Iron Will,movie,PG,1994,108 min,"Adventure, Family","Mackenzie Astin, Kevin Spacey, David Ogden Stiers, August Schellenberg",English,USA,6.6,"7,095"
+tt0287003,A Tale of Two Critters,movie,G,1977,48 min,"Adventure, Family",Mayf Nutter,English,USA,7.1,59
+tt0089385,The Journey of Natty Gann,movie,PG,1985,101 min,"Adventure, Family","Meredith Salenger, John Cusack, Ray Wise, Lainie Kazan",English,USA,7.0,"4,848"
+tt0099816,Shipwrecked,movie,PG,1991,92 min,"Adventure, Family","Stian Smestad, Gabriel Byrne, Louisa Milwood-Haigh, Trond Peter StamsÃ¸ Munch",English,"Norway, Sweden, USA",6.7,"2,364"
+tt0318850,The Young Black Stallion,movie,G,2003,50 min,"Adventure, Family, Drama","Richard Romanus, Biana Tamimi, Patrick Elyas, GÃ©rard Rudolf",English,USA,5.6,"1,008"
+tt3602560,The Evermoor Chronicles,series,N/A,2014,30 min,"Adventure, Family, Fantasy","Alex Starke, Margaret Cabourn-Smith, Clive Rowe, Finney Cassidy",English,USA,6.1,396
+tt3861390,Dumbo,movie,PG,2019,112 min,"Adventure, Family, Fantasy","Colin Farrell, Michael Keaton, Danny DeVito, Eva Green","English, French","USA, UK, Australia, Canada",6.3,"58,882"
+tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",movie,PG,2005,143 min,"Adventure, Family, Fantasy","Georgie Henley, Skandar Keynes, William Moseley, Anna Popplewell","English, German, Brazilian Sign Language","UK, USA",6.9,"353,342"
+tt1014759,Alice in Wonderland,movie,PG,2010,108 min,"Adventure, Family, Fantasy","Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway",English,USA,6.4,"371,772"
+tt0274761,Halloweentown II: Kalabar's Revenge,movie,TV-PG,2001,81 min,"Adventure, Family, Fantasy","Kimberly J. Brown, Judith Hoag, Daniel Kountz, Joey Zimmerman",English,USA,6.5,"6,476"
+tt3691740,The BFG,movie,PG,2016,117 min,"Adventure, Family, Fantasy","Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement",English,"USA, India, UK",6.4,"73,906"
+tt0089908,Return to Oz,movie,PG,1985,113 min,"Adventure, Family, Fantasy, Horror, Mystery","Fairuza Balk, Nicol Williamson, Jean Marsh, Piper Laurie",English,"UK, USA",6.7,"23,581"
+tt6139732,Aladdin,movie,PG,2019,128 min,"Adventure, Family, Fantasy, Musical, Romance","Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari","English, Arabic",USA,7.0,"204,537"
+tt0072951,Escape to Witch Mountain,movie,G,1975,97 min,"Adventure, Family, Fantasy, Mystery, Sci-Fi","Eddie Albert, Ray Milland, Donald Pleasence, Kim Richards",English,USA,6.4,"8,810"
+tt0052722,Darby O'Gill and the Little People,movie,APPROVED,1960,93 min,"Adventure, Family, Fantasy, Romance","Albert Sharpe, Janet Munro, Sean Connery, Jimmy O'Dea","English, Irish",USA,7.2,"6,664"
+tt0093779,The Princess Bride,movie,PG,1987,98 min,"Adventure, Family, Fantasy, Romance","Cary Elwes, Mandy Patinkin, Chris Sarandon, Christopher Guest",English,USA,8.1,"377,085"
+tt0050837,Perri,movie,APPROVED,1957,75 min,"Adventure, Family, Fantasy, Romance",Winston Hibler,English,USA,7.2,272
+tt0052948,Journey to the Center of the Earth,movie,APPROVED,1959,129 min,"Adventure, Family, Fantasy, Romance, Sci-Fi","Pat Boone, James Mason, Arlene Dahl, Diane Baker","English, Swedish, French, Italian, Russian",USA,7.0,"15,008"
+tt1620680,A Wrinkle in Time,movie,PG,2018,109 min,"Adventure, Family, Fantasy, Sci-Fi","Storm Reid, Oprah Winfrey, Reese Witherspoon, Mindy Kaling",English,USA,4.2,"38,659"
+tt0111359,Tall Tale,movie,PG,1995,96 min,"Adventure, Family, Fantasy, Western","Patrick Swayze, Oliver Platt, Roger Aaron Brown, Nick Stahl",English,USA,5.9,"3,246"
+tt8022928,Descendants 3,movie,TV-G,2019,106 min,"Adventure, Family, Musical","Dove Cameron, Cameron Boyce, Sofia Carson, Booboo Stewart",English,USA,6.7,"4,072"
+tt0169247,So Weird,series,TV-Y7,1999,30 min,"Adventure, Family, Mystery, Thriller","Patrick Levis, Mackenzie Phillips, Belinda Metz, Dave 'Squatch' Ward",English,Canada,8.5,"2,519"
+tt0075347,Treasure of Matecumbe,movie,G,1976,117 min,"Adventure, Family, Western","Robert Foxworth, Joan Hackett, Peter Ustinov, Vic Morrow",English,USA,6.3,412
+tt9165706,Gordon Ramsay: Uncharted,series,N/A,2019,60 min,"Adventure, Reality-TV",Gordon Ramsay,N/A,N/A,7.9,316
+tt0047775,The Adventures of Spin and Marty,series,N/A,1955,N/A,"Adventure, Western, Family","Dee Aaker, Tim Considine, David Stollery, Roy Barcroft",English,USA,8.2,166
+tt7726152,Marvel Super Hero Adventures,series,N/A,2017,4 min,Animation,"Cole Howard, James Blight, Sam Vincent, Omari Newton",English,USA,6.1,63
+tt7678620,Bluey,series,TV-Y,2019,N/A,Animation,"David McCormack, Melanie Zanetti",English,"Australia, UK",9.7,949
+tt3688956,The New Yoda Chronicles: Escape from the Jedi Temple,movie,N/A,2014,22 min,Animation,"Eric Bauza, Michael Daingerfield, Anthony Daniels, Trevor Devall",English,"Denmark, China",7.5,161
+tt3978590,The New Yoda Chronicles: Raid on Coruscant,movie,N/A,2014,22 min,Animation,"Eric Bauza, Michael Daingerfield, Anthony Daniels, Trevor Devall",English,"Denmark, China",7.5,65
+tt4283838,The New Yoda Chronicles: Clash of the Skywalkers,movie,N/A,2014,22 min,Animation,"Eric Bauza, Michael Daingerfield, Anthony Daniels, Trevor Devall",English,"Denmark, China",7.4,54
+tt6591446,Marvel Future Avengers,series,TV-PG,2017,N/A,Animation,"Max Mittelman, Dina Sherman, Xander Mobus, Kirk Thornton",Japanese,N/A,6.0,75
+tt3008594,Minnie's Bow-Toons,series,N/A,2011,N/A,Animation,"Tress MacNeille, Nika Futterman, Russi Taylor, Avalon Robbins",English,USA,6.5,35
+tt0108783,Gargoyles,series,TV-PG,1994,30 min,"Animation, Action, Adventure, Comedy, Crime, Drama, Family, Fantasy, Mystery, Romance, Thriller","Keith David, Salli Richardson-Whitfield, Jeff Bennett, Frank Welker",English,USA,8.1,"13,699"
+tt0213334,Bonkers,series,TV-Y,1993,27 min,"Animation, Action, Adventure, Comedy, Crime, Family","Jim Cummings, Earl Boen, Frank Welker",English,USA,6.8,"1,188"
+tt0098924,TaleSpin,series,TV-Y7,1990,30 min,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Mystery","Ed Gilbert, Jim Cummings, Sally Struthers, R.J. Williams",English,USA,7.6,"12,743"
+tt0344864,Atlantis: Milo's Return,movie,G,2003,70 min,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi","James Arnold Taylor, Cree Summer, John Mahoney, Jacqueline Obradors","Norwegian, English",USA,5.1,"7,621"
+tt0486761,Leroy & Stitch,movie,G,2006,73 min,"Animation, Action, Adventure, Comedy, Drama, Family, Sci-Fi","Daveigh Chase, Chris Sanders, David Ogden Stiers, Kevin McDonald",English,USA,6.2,"4,565"
+tt4176370,Guardians of the Galaxy,series,TV-Y7,2015,22 min,"Animation, Action, Adventure, Comedy, Drama, Family, Sci-Fi","Kevin Michael Richardson, Vanessa Marshall, David Sobolov, Will Friedle",English,USA,7.4,"2,520"
+tt0138967,Hercules,series,TV-Y,1998,30 min,"Animation, Action, Adventure, Comedy, Family, Fantasy","Tate Donovan, French Stewart, Sandra Bernhard, Robert Costanzo",English,USA,6.6,"9,244"
+tt3793630,The Lion Guard,series,TV-Y,2016,30 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Music","Max Charles, Joshua Rush, Diamond White, Atticus Shaffer",English,USA,6.4,"1,371"
+tt4902964,Tangled: The Series,series,TV-Y7,2017,21 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Musical","Mandy Moore, Zachary Levi, Eden Espinosa, Paul F. Tompkins","English, Czech",USA,7.6,"1,598"
+tt5533228,Tangled: Before Ever After,movie,TV-Y7,2017,55 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Musical","Zachary Levi, Mandy Moore, Eden Espinosa, Clancy Brown",English,USA,6.6,"1,861"
+tt5531466,DuckTales,series,TV-Y,2017,21 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi","David Tennant, Ben Schwartz, Danny Pudi, Kate Micucci",English,USA,8.2,"5,051"
+tt1865718,Gravity Falls,series,TV-Y7,2012,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi","Jason Ritter, Alex Hirsch, Kristen Schaal, Linda Cardellini",English,USA,8.9,"63,771"
+tt0446724,Kim Possible: So the Drama,movie,TV-G,2005,71 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi","Christy Carlson Romano, Will Friedle, Nancy Cartwright, Tahj Mowry",English,USA,7.1,"3,728"
+tt1825918,Phineas and Ferb the Movie: Across the 2nd Dimension,movie,TV-G,2011,78 min,"Animation, Action, Adventure, Comedy, Family, Musical, Sci-Fi","Vincent Martella, Ashley Tisdale, Thomas Brodie-Sangster, Caroline Rhea",English,USA,7.4,"7,624"
+tt0278866,Kim Possible,series,TV-G,2002,30 min,"Animation, Action, Adventure, Comedy, Family, Mystery, Romance, Sci-Fi","Christy Carlson Romano, Will Friedle, Nancy Cartwright, Tahj Mowry",English,"USA, Philippines, South Korea",7.2,"22,207"
+tt0101076,Darkwing Duck,series,TV-Y7,1991,30 min,"Animation, Action, Adventure, Comedy, Family, Mystery, Sci-Fi","Jim Cummings, Terence McGovern, Christine Cavanaugh",English,USA,7.6,"13,689"
+tt0364774,Lilo & Stitch: The Series,series,TV-Y,2003,22 min,"Animation, Action, Adventure, Comedy, Family, Sci-Fi","Daveigh Chase, Chris Sanders, David Ogden Stiers, Jillian Henry",English,USA,6.7,"7,344"
+tt5515212,Big Hero 6: The Series,series,TV-Y7,2017,21 min,"Animation, Action, Adventure, Comedy, Family, Sci-Fi","Scott Adsit, Ryan Potter, Brooks Wheelan, Khary Payton",English,USA,7.1,"1,154"
+tt4855868,Lego Star Wars: Droid Tales,series,N/A,2015,23 min,"Animation, Action, Adventure, Comedy, Sci-Fi","Anthony Daniels, Tom Kane, Trevor Devall, Eric Bauza",English,USA,7.5,617
+tt1722512,Ultimate Spider-Man,series,TV-Y7,2012,23 min,"Animation, Action, Adventure, Comedy, Sci-Fi","Drake Bell, Ogie Banks, Chi McBride, Logan Miller",English,USA,7.1,"9,725"
+tt2455514,Hulk and the Agents of S.M.A.S.H.,series,TV-Y7,2013,23 min,"Animation, Action, Adventure, Comedy, Sci-Fi","Fred Tatasciore, Clancy Brown, Seth Green, Ben Diskin",English,USA,6.1,"2,473"
+tt7249258,Ant-Man,series,N/A,2017,2 min,"Animation, Action, Adventure, Comedy, Sci-Fi",Josh Keaton,English,USA,6.7,246
+tt9297164,Lego Star Wars: All-Stars,series,TV-Y7,2018,22 min,"Animation, Action, Adventure, Comedy, Sci-Fi","Matthew Wood, John DiMaggio, Dana Snyder, Montse Hernandez",English,USA,6.5,127
+tt0458290,Star Wars: The Clone Wars,series,TV-PG,2008,23 min,"Animation, Action, Adventure, Drama, Fantasy, Sci-Fi","Tom Kane, Dee Bradley Baker, Matt Lanter, James Arnold Taylor",English,USA,8.1,"47,308"
+tt0772145,Wolverine and the X-Men,series,TV-Y7,2009,23 min,"Animation, Action, Adventure, Drama, Sci-Fi","Steve Blum, Jim Ward, Nolan North, Fred Tatasciore",English,USA,8.0,"9,497"
+tt0317705,The Incredibles,movie,PG,2004,115 min,"Animation, Action, Adventure, Family","Craig T. Nelson, Holly Hunter, Samuel L. Jackson, Jason Lee","English, French",USA,8.0,"633,057"
+tt0088814,The Black Cauldron,movie,PG,1985,80 min,"Animation, Action, Adventure, Family, Fantasy, Horror","Grant Bardsley, Susan Sheridan, Freddie Jones, Nigel Hawthorne","English, Portuguese","USA, UK",6.4,"29,395"
+tt4549142,Elena of Avalor,series,TV-Y,2016,24 min,"Animation, Action, Adventure, Family, Fantasy, Musical","Aimee Carrero, Jillian Rose Reed, Joseph Haro, Jorge Diaz",English,USA,6.4,998
+tt2930604,Star Wars Rebels,series,TV-Y7-FV,2014,22 min,"Animation, Action, Adventure, Family, Fantasy, Mystery, Sci-Fi","Taylor Gray, Dave Filoni, Vanessa Marshall, Freddie Prinze Jr.",English,USA,8.0,"24,977"
+tt0230011,Atlantis: The Lost Empire,movie,PG,2001,95 min,"Animation, Action, Adventure, Family, Fantasy, Sci-Fi","Corey Burton, Claudia Christian, Michael J. Fox, James Garner","English, French, Spanish",USA,6.9,"98,258"
+tt4148744,PJ Masks,series,TV-Y,2015,24 min,"Animation, Action, Adventure, Family, Fantasy, Sci-Fi","Kyle Breitkopf, Addison Holley, Juan Luis Bonilla, Brianna Daguanno","French, English","France, UK",5.7,696
+tt1185834,Star Wars: The Clone Wars,movie,PG,2008,98 min,"Animation, Action, Adventure, Family, Fantasy, Sci-Fi","Matt Lanter, Ashley Eckstein, James Arnold Taylor, Dee Bradley Baker",English,USA,5.9,"53,973"
+tt0081938,Spider-Man,series,N/A,1981,30 min,"Animation, Action, Adventure, Family, Fantasy, Sci-Fi","Ted Schwartz, William Woodson, Mona Marshall, Morgan Lofting",English,USA,7.0,943
+tt3221698,Iron Man & Hulk: Heroes United,movie,PG,2013,71 min,"Animation, Action, Adventure, Family, Sci-Fi","Adrian Pasdar, Fred Tatasciore, Dee Bradley Baker, Robin Atkin Downes",English,USA,4.7,"2,012"
+tt0112175,Spider-Man: The Animated Series,series,TV-Y,1994,23 min,"Animation, Action, Adventure, Family, Sci-Fi","Christopher Daniel Barnes, Sara Ballantine, Edward Asner, Roscoe Lee Browne",English,USA,8.3,"24,829"
+tt1812523,TRON: Uprising,series,TV-Y7,2012,30 min,"Animation, Action, Adventure, Family, Sci-Fi","Elijah Wood, Tricia Helfer, Charlie Bean, Elizabeth Ho",English,USA,8.2,"7,409"
+tt2245084,Big Hero 6,movie,PG,2014,102 min,"Animation, Action, Adventure, Family, Sci-Fi","Scott Adsit, Ryan Potter, Daniel Henney, T.J. Miller",English,USA,7.8,"393,016"
+tt1305591,Mars Needs Moms,movie,PG,2011,88 min,"Animation, Action, Adventure, Family, Sci-Fi","Seth Green, Dan Fogler, Joan Cusack, Elisabeth Harnois",English,USA,5.4,"20,441"
+tt0115215,The Incredible Hulk,series,TV-Y7,1996,20 min,"Animation, Action, Adventure, Fantasy, Sci-Fi","Lou Ferrigno, Neal McDonough, John Vernon, Mark Hamill",English,USA,6.8,"2,643"
+tt8336340,Star Wars Resistance,series,TV-Y7,2018,30 min,"Animation, Action, Adventure, Sci-Fi","Christopher Sean, Scott Lawrence, Josh Brener, Suzie McGrath",English,USA,4.9,"3,403"
+tt11483514,Marvel Rising: Playing with Fire,movie,TV-Y7-FV,2019,44 min,"Animation, Action, Adventure, Sci-Fi","Dove Cameron, Kathreen Khavari, Tyler Posey, Cierra Ramirez",English,USA,5.5,61
+tt0203247,Avengers: United They Stand,series,TV-Y7,1999,30 min,"Animation, Action, Adventure, Sci-Fi","Linda Ballantyne, Tony Daniels, Ron Rubin, Martin Roach",English,"France, Canada, USA",5.5,682
+tt0115218,Iron Man,series,TV-Y7,1994,30 min,"Animation, Action, Adventure, Sci-Fi","Robert Hays, John Reilly, Jim Cummings, Dorian Harewood",English,USA,6.7,"2,638"
+tt2455546,Avengers Assemble,series,TV-Y7,2013,23 min,"Animation, Action, Adventure, Sci-Fi","Roger Craig Smith, Troy Baker, Fred Tatasciore, Travis Willingham",English,USA,7.0,"6,168"
+tt0083481,Spider-Man and His Amazing Friends,series,TV-Y7,1981,22 min,"Animation, Action, Comedy, Crime, Family, Sci-Fi","June Foray, Dan Gilvezan, Kathy Garver, Frank Welker",English,USA,7.2,"2,704"
+tt0279967,Mulan II,movie,G,2004,79 min,"Animation, Action, Comedy, Family, Musical","Ming-Na Wen, BD Wong, Mark Moseley, Lucy Liu",English,"USA, South Korea, Singapore, Russia, Malaysia, Kazakhstan, Taiwan, Hong Kong, Japan, China, India, Syria, Iran, Egypt, Pakistan",5.7,"20,851"
+tt2283584,Phineas and Ferb: Mission Marvel,episode,TV-G,2013,45 min,"Animation, Action, Comedy, Family, Musical, Sci-Fi","Vincent Martella, Ashley Tisdale, Thomas Brodie-Sangster, Caroline Rhea",Brazilian Sign Language,N/A,8.3,419
+tt0852863,Phineas and Ferb,series,TV-G,2007,15 min,"Animation, Action, Comedy, Family, Musical, Sci-Fi","Vincent Martella, Ashley Tisdale, Thomas Brodie-Sangster, Dan Povenmire",English,USA,7.9,"31,287"
+tt3067144,Phineas and Ferb: Star Wars,episode,TV-G,2014,51 min,"Animation, Action, Comedy, Family, Musical, Sci-Fi","Vincent Martella, Ella Kennedy, Ashley Tisdale, Thomas Brodie-Sangster","English, Brazilian Sign Language",USA,8.2,492
+tt1388589,The Super Hero Squad Show,series,TV-Y7,2009,N/A,"Animation, Action, Comedy, Family, Sci-Fi","Tom Kenny, David Boat, Steve Blum, Travis Willingham",English,USA,6.1,"1,410"
+tt0115269,Mighty Ducks,series,TV-Y7,1996,30 min,"Animation, Action, Comedy, Family, Sci-Fi, Sport","Jeff Bennett, Brad Garrett, Jennifer Hale, Steve Mackall",English,USA,6.5,"1,155"
+tt7728344,Marvel Rising: Secret Warriors,movie,N/A,2018,80 min,"Animation, Action, Comedy, Fantasy, Sci-Fi","Dee Bradley Baker, Chloe Bennet, Kathreen Khavari, Andrew Kishino",English,USA,5.1,854
+tt5459566,Lego Star Wars: The Freemaker Adventures,series,TV-Y7,2016,23 min,"Animation, Action, Comedy, Fantasy, Sci-Fi","Vanessa Lengies, Nicolas Cantu, Matthew Wood, Eugene Byrd",English,USA,7.5,680
+tt0247827,X-Men: Evolution,series,TV-Y7,2000,23 min,"Animation, Action, Drama, Fantasy, Romance, Sci-Fi, Thriller","Kirby Morrow, Venus Terzo, David Kaye, Brad Swaile",English,USA,7.9,"9,763"
+tt1626038,The Avengers: Earth's Mightiest Heroes,series,TV-Y7,2010,30 min,"Animation, Action, Family, Sci-Fi","Eric Loomis, Colleen O'Shaughnessey, Brian Bloom, Rick D. Wasserman",English,USA,8.3,"12,505"
+tt0103584,X-Men: The Animated Series,series,TV-Y7,1992,23 min,"Animation, Action, Family, Sci-Fi, Thriller","Cathal J. Dodd, George Buza, Norm Spencer, Cedric Smith",English,"USA, Canada",8.4,"36,206"
+tt0187635,Fantastic Four: The Animated Series,series,N/A,1994,22 min,"Animation, Action, Sci-Fi","Beau Weaver, Lori Alan, Chuck McCann, Quinton Flynn",English,USA,6.4,"2,886"
+tt0462538,The Simpsons Movie,movie,PG-13,2007,87 min,"Animation, Adventure, Comedy","Dan Castellaneta, Julie Kavner, Nancy Cartwright, Yeardley Smith",English,USA,7.3,"302,244"
+tt1378123,Rescue Squad Mater,episode,Not Rated,2008,36 min,"Animation, Adventure, Comedy","Keith Ferguson, Larry the Cable Guy",English,USA,6.3,272
+tt1788785,Moon Mater,episode,TV-G,2010,5 min,"Animation, Adventure, Comedy","Larry the Cable Guy, Keith Ferguson, Josh Cooley, Elissa Knight",N/A,N/A,6.3,178
+tt0096438,Who Framed Roger Rabbit,movie,PG,1988,104 min,"Animation, Adventure, Comedy, Crime, Family, Fantasy, Mystery","Bob Hoskins, Christopher Lloyd, Joanna Cassidy, Charles Fleischer",English,USA,7.7,"175,505"
+tt2948356,Zootopia,movie,PG,2016,108 min,"Animation, Adventure, Comedy, Crime, Family, Mystery","Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate",English,USA,8.0,"410,437"
+tt0397892,Bolt,movie,PG,2008,96 min,"Animation, Adventure, Comedy, Drama, Family","John Travolta, Miley Cyrus, Susie Essman, Mark Walton",English,USA,6.8,"182,591"
+tt2096673,Inside Out,movie,PG,2015,95 min,"Animation, Adventure, Comedy, Drama, Family, Fantasy","Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader",English,USA,8.2,"577,209"
+tt1979388,The Good Dinosaur,movie,PG,2015,93 min,"Animation, Adventure, Comedy, Drama, Family, Fantasy","Jeffrey Wright, Frances McDormand, Maleah Nipay-Padilla, Ryan Teeple",English,USA,6.7,"97,413"
+tt0382932,Ratatouille,movie,G,2007,111 min,"Animation, Adventure, Comedy, Drama, Family, Fantasy","Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy","English, French",USA,8.0,"612,483"
+tt0275847,Lilo & Stitch,movie,PG,2002,85 min,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi","Daveigh Chase, Chris Sanders, Tia Carrere, David Ogden Stiers","English, Hawaiian",USA,7.2,"160,264"
+tt0187819,Doug's 1st Movie,movie,G,1999,77 min,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi","Thomas McHugh, Fred Newman, Chris Phillips, Constance Shulman",English,USA,5.0,"2,868"
+tt0384696,Winnie the Pooh: Springtime with Roo,movie,G,2004,65 min,"Animation, Adventure, Comedy, Drama, Family, Musical","Jim Cummings, Ken Sansom, Jimmy Bennett, David Ogden Stiers","English, Arabic",USA,6.5,"1,634"
+tt0257778,The Hunchback of Notre Dame 2: The Secret of the Bell,movie,G,2002,68 min,"Animation, Adventure, Comedy, Drama, Family, Musical, Romance","Jason Alexander, Jennifer Love Hewitt, Tom Hulce, Paul Kandel",English,USA,4.7,"5,645"
+tt0048280,Lady and the Tramp,movie,G,1955,76 min,"Animation, Adventure, Comedy, Drama, Family, Romance","Peggy Lee, Larry Roberts, Bill Baucom, Verna Felton",English,USA,7.3,"116,990"
+tt0756522,Little Einsteins,series,TV-Y,2005,30 min,"Animation, Adventure, Comedy, Family","Aiden Pompey, Jesse Schwartz, Natalia Wojcik, Erica Huang",English,USA,6.2,"1,143"
+tt0092345,DuckTales,series,TV-G,1987,23 min,"Animation, Adventure, Comedy, Family","Alan Young, Russi Taylor, Chuck McCann, Terence McGovern",English,USA,8.1,"27,880"
+tt0266543,Finding Nemo,movie,G,2003,100 min,"Animation, Adventure, Comedy, Family","Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe",English,"USA, Australia",8.1,"911,647"
+tt1725902,Fish Hooks,series,TV-G,2010,22 min,"Animation, Adventure, Comedy, Family","Chelsea Kane, Justin Roiland, Kyle Massey",English,USA,4.6,"2,882"
+tt0120623,A Bug's Life,movie,G,1998,95 min,"Animation, Adventure, Comedy, Family","Dave Foley, Kevin Spacey, Julia Louis-Dreyfus, Hayden Panettiere",English,USA,7.2,"257,065"
+tt1049413,Up,movie,PG,2009,96 min,"Animation, Adventure, Comedy, Family","Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson",English,USA,8.2,"895,906"
+tt2277860,Finding Dory,movie,PG,2016,97 min,"Animation, Adventure, Comedy, Family","Ellen DeGeneres, Albert Brooks, Ed O'Neill, Kaitlin Olson","English, Indonesian",USA,7.3,"227,414"
+tt0112197,Timon & Pumbaa,series,TV-Y,1995,22 min,"Animation, Adventure, Comedy, Family","Ernie Sabella, Kevin Schon","English, Telugu",USA,7.1,"8,549"
+tt1378121,El Materdor,episode,N/A,2008,36 min,"Animation, Adventure, Comedy, Family","Keith Ferguson, Larry the Cable Guy",English,USA,6.4,283
+tt0405469,The Wild,movie,G,2006,82 min,"Animation, Adventure, Comedy, Family","Kiefer Sutherland, Jim Belushi, Eddie Izzard, Janeane Garofalo",English,"Canada, USA",5.3,"23,206"
+tt1511164,Unidentified Flying Mater,episode,N/A,2009,36 min,"Animation, Adventure, Comedy, Family","Larry the Cable Guy, Keith Ferguson, George Carlin, Guido Quaroni",N/A,N/A,6.4,316
+tt2166364,Time Travel Mater,episode,G,2012,6 min,"Animation, Adventure, Comedy, Family","Larry the Cable Guy, Keith Ferguson, John Michael Higgins, Katherine Helmond",N/A,N/A,6.2,535
+tt0126170,Recess,series,TV-Y,1997,23 min,"Animation, Adventure, Comedy, Family","Rickey D'Shon Collins, Jason Davis, Ashley Johnson, Pamela Adlon",English,USA,7.8,"21,355"
+tt0055254,One Hundred and One Dalmatians,movie,G,1961,79 min,"Animation, Adventure, Comedy, Family","Rod Taylor, J. Pat O'Malley, Betty Lou Gerson, Martha Wentworth",English,USA,7.2,"146,668"
+tt0099472,DuckTales the Movie: Treasure of the Lost Lamp,movie,G,1990,74 min,"Animation, Adventure, Comedy, Family, Fantasy","Alan Young, Terence McGovern, Russi Taylor, Richard Libertini",English,"France, USA",6.9,"24,234"
+tt6110430,Lego Frozen Northern Lights,series,TV-Y7,2016,N/A,"Animation, Adventure, Comedy, Family, Fantasy","Ashlyn Faith Williams, Josh Gad, Jonathan Groff, Idina Menzel",English,USA,5.7,401
+tt1453405,Monsters University,movie,G,2013,104 min,"Animation, Adventure, Comedy, Family, Fantasy","Billy Crystal, John Goodman, Steve Buscemi, Helen Mirren",English,USA,7.3,"308,588"
+tt0076618,The Rescuers,movie,G,1977,78 min,"Animation, Adventure, Comedy, Family, Fantasy","Bob Newhart, Eva Gabor, Geraldine Page, Joe Flynn",English,USA,6.9,"55,743"
+tt0120917,The Emperor's New Groove,movie,G,2000,78 min,"Animation, Adventure, Comedy, Family, Fantasy","David Spade, John Goodman, Eartha Kitt, Patrick Warburton",English,USA,7.3,"171,721"
+tt0328880,Brother Bear,movie,G,2003,85 min,"Animation, Adventure, Comedy, Family, Fantasy","Joaquin Phoenix, Jeremy Suarez, Jason Raize, Rick Moranis","English, Inuktitut, Croatian, Serbian",USA,6.8,"92,453"
+tt1772341,Wreck-It Ralph,movie,PG,2012,101 min,"Animation, Adventure, Comedy, Family, Fantasy","John C. Reilly, Sarah Silverman, Jack McBrayer, Jane Lynch",English,USA,7.7,"365,043"
+tt0198781,"Monsters, Inc.",movie,G,2001,92 min,"Animation, Adventure, Comedy, Family, Fantasy","John Goodman, Billy Crystal, Mary Gibbs, Steve Buscemi",English,USA,8.0,"779,728"
+tt1217209,Brave,movie,PG,2012,93 min,"Animation, Adventure, Comedy, Family, Fantasy","Kelly Macdonald, Billy Connolly, Emma Thompson, Julie Walters",English,"USA, UK",7.1,"357,239"
+tt0465925,Brother Bear 2,movie,G,2006,74 min,"Animation, Adventure, Comedy, Family, Fantasy","Patrick Dempsey, Mandy Moore, Jeremy Suarez, Rick Moranis",English,USA,6.2,"13,878"
+tt0268380,Ice Age,movie,PG,2002,81 min,"Animation, Adventure, Comedy, Family, Fantasy","Ray Romano, John Leguizamo, Denis Leary, Goran Visnjic",English,USA,7.5,"421,204"
+tt1979376,Toy Story 4,movie,G,2019,100 min,"Animation, Adventure, Comedy, Family, Fantasy","Tom Hanks, Tim Allen, Annie Potts, Tony Hale",English,USA,7.8,"172,068"
+tt0114709,Toy Story,movie,G,1995,81 min,"Animation, Adventure, Comedy, Family, Fantasy","Tom Hanks, Tim Allen, Don Rickles, Jim Varney",English,USA,8.3,"846,332"
+tt0120363,Toy Story 2,movie,G,1999,92 min,"Animation, Adventure, Comedy, Family, Fantasy","Tom Hanks, Tim Allen, Joan Cusack, Kelsey Grammer","English, Arabic, Spanish",USA,7.9,"504,561"
+tt0435761,Toy Story 3,movie,G,2010,103 min,"Animation, Adventure, Comedy, Family, Fantasy","Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty","English, Spanish",USA,8.3,"729,086"
+tt7146812,Onward,movie,PG,2020,102 min,"Animation, Adventure, Comedy, Family, Fantasy","Tom Holland, Chris Pratt, Julia Louis-Dreyfus, Octavia Spencer",English,USA,7.5,"45,444"
+tt8611524,Legend of the Three Caballeros,series,TV-G,2019,N/A,"Animation, Adventure, Comedy, Family, Fantasy","Tony Anselmo, Dee Bradley Baker, Eric Bauza, Jaime Camil",English,USA,7.8,153
+tt0066817,Bedknobs and Broomsticks,movie,G,1971,117 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Angela Lansbury, David Tomlinson, Roddy McDowall, Sam Jaffe","English, German",USA,7.1,"32,823"
+tt3521164,Moana,movie,PG,2016,107 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison",English,USA,7.6,"250,176"
+tt0076538,Pete's Dragon,movie,G,1977,128 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Helen Reddy, Jim Dale, Mickey Rooney, Red Buttons",English,USA,6.4,"21,558"
+tt0165052,The New Adventures of Winnie the Pooh,series,TV-Y,1988,30 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical","John Fiedler, Jim Cummings, Ken Sansom, Paul Winchell",English,USA,7.6,"3,077"
+tt2294629,Frozen,movie,PG,2013,102 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad","English, Norwegian",USA,7.5,"551,637"
+tt4520988,Frozen II,movie,PG,2019,103 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff",English,USA,7.0,"106,368"
+tt0057546,The Sword in the Stone,movie,G,1964,79 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Sebastian Cabot, Karl Swenson, Rickie Sorensen, Junius Matthews",English,USA,7.2,"85,169"
+tt0780521,The Princess and the Frog,movie,G,2009,97 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance","Anika Noni Rose, Bruno Campos, Keith David, Michael-Leon Wooley","English, French",USA,7.1,"117,082"
+tt0039404,Fun and Fancy Free,movie,APPROVED,1948,73 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance","Edgar Bergen, Dinah Shore, Luana Patten, Anita Gordon",English,USA,6.6,"6,454"
+tt0107952,Aladdin and the Return of Jafar,movie,G,1994,69 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance","Jason Alexander, Jonathan Freeman, Jeff Bennett, Gilbert Gottfried",English,USA,5.9,"25,623"
+tt0398286,Tangled,movie,PG,2010,100 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance","Mandy Moore, Zachary Levi, Donna Murphy, Ron Perlman",English,USA,7.7,"390,220"
+tt0103639,Aladdin,movie,G,1992,90 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance","Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman",English,USA,8.0,"356,283"
+tt0119282,Hercules,movie,G,1997,93 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance","Tate Donovan, Josh Keaton, Roger Bart, Danny DeVito","English, Spanish, Greek","USA, France",7.3,"195,894"
+tt0115491,Aladdin and the King of Thieves,movie,Not Rated,1996,81 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance","Val Bettin, Jim Cummings, Gilbert Gottfried, Linda Larkin",English,USA,6.4,"31,603"
+tt0350194,Teacher's Pet,movie,PG,2004,73 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Sci-Fi","Nathan Lane, Kelsey Grammer, Shaun Fleming, Debra Jo Rupp",English,USA,5.8,"1,471"
+tt0448090,The Proud Family Movie,movie,TV-G,2005,90 min,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi","Kyla Pratt, Tommy Davidson, Paula Jai Parker, Jo Marie Payton",English,USA,5.4,"1,430"
+tt0371606,Chicken Little,movie,G,2005,81 min,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi","Zach Braff, Garry Marshall, Don Knotts, Patrick Stewart",English,USA,5.7,"82,825"
+tt0103428,Goof Troop,series,TV-Y,1992,30 min,"Animation, Adventure, Comedy, Family, Music","Rob Paulsen, April Winchell, Jim Cummings, Bill Farmer",English,USA,6.8,"7,293"
+tt0299172,Home on the Range,movie,PG,2004,76 min,"Animation, Adventure, Comedy, Family, Music, Western","G.W. Bailey, Roseanne Barr, Bobby Block, Steve Buscemi","English, Mandarin",USA,5.3,"19,123"
+tt0324941,101 Dalmatians 2: Patch's London Adventure,movie,G,2003,74 min,"Animation, Adventure, Comedy, Family, Musical","Barry Bostwick, Jason Alexander, Martin Short, Bobby Lockwood",English,USA,5.8,"7,434"
+tt0119918,Pooh's Grand Adventure: The Search for Christopher Robin,movie,G,1997,76 min,"Animation, Adventure, Comedy, Family, Musical","Jim Cummings, John Fiedler, Ken Sansom, Andre Stojka",English,USA,7.1,"4,850"
+tt0095776,Oliver & Company,movie,G,1988,74 min,"Animation, Adventure, Comedy, Family, Musical","Joey Lawrence, Billy Joel, Cheech Marin, Richard Mulligan",English,USA,6.7,"41,874"
+tt1449283,Winnie the Pooh,movie,G,2011,63 min,"Animation, Adventure, Comedy, Family, Musical","John Cleese, Jim Cummings, Bud Luckey, Craig Ferguson",English,USA,7.2,"20,673"
+tt0318403,The Lion King 3: Hakuna Matata,movie,G,2004,77 min,"Animation, Adventure, Comedy, Family, Musical","Nathan Lane, Ernie Sabella, Julie Kavner, Jerry Stiller",English,"Australia, USA",6.6,"35,523"
+tt0065421,The Aristocats,movie,G,1970,78 min,"Animation, Adventure, Comedy, Family, Musical","Phil Harris, Eva Gabor, Sterling Holloway, Scatman Crothers",English,USA,7.1,"89,029"
+tt0465997,The Fox and the Hound 2,movie,G,2006,69 min,"Animation, Adventure, Comedy, Family, Musical","Reba McEntire, Patrick Swayze, Jonah Bobo, Harrison Fahn",English,USA,5.3,"3,961"
+tt0076363,The Many Adventures of Winnie the Pooh,movie,G,1977,74 min,"Animation, Adventure, Comedy, Family, Musical","Sebastian Cabot, Junius Matthews, Barbara Luddy, Howard Morris",English,USA,7.6,"31,065"
+tt0323642,Piglet's Big Movie,movie,G,2003,75 min,"Animation, Adventure, Comedy, Family, Musical, Mystery","John Fiedler, Jim Cummings, Andre Stojka, Kath Soucie",English,USA,6.1,"6,519"
+tt0113198,A Goofy Movie,movie,G,1995,78 min,"Animation, Adventure, Comedy, Family, Musical, Romance","Bill Farmer, Jason Marsden, Jim Cummings, Kellie Martin",English,"USA, Australia, France, Canada",6.8,"43,655"
+tt0371823,"Mickey, Donald, Goofy: The Three Musketeers",movie,G,2004,68 min,"Animation, Adventure, Comedy, Family, Musical, Romance","Wayne Allwine, Tony Anselmo, Bill Farmer, Russi Taylor",English,USA,6.4,"7,496"
+tt0096557,Chip 'n' Dale Rescue Rangers,series,TV-Y,1989,22 min,"Animation, Adventure, Comedy, Family, Mystery","Peter Cullen, Tress MacNeille, Corey Burton, Jim Cummings",English,"USA, Taiwan, South Korea, China, Japan, UK",7.6,"16,431"
+tt0070608,Robin Hood,movie,G,1973,83 min,"Animation, Adventure, Comedy, Family, Romance","Roger Miller, Peter Ustinov, Terry-Thomas, Brian Bedford","English, Portuguese",USA,7.6,"110,712"
+tt0396555,Meet the Robinsons,movie,G,2007,95 min,"Animation, Adventure, Comedy, Family, Sci-Fi","Angela Bassett, Daniel Hansen, Jordan Fry, Matthew Josten",English,USA,6.8,"84,040"
+tt0348124,Stitch! The Movie,movie,G,2003,60 min,"Animation, Adventure, Comedy, Family, Sci-Fi","Daveigh Chase, Chris Sanders, Tia Carrere, David Ogden Stiers","Hawaiian, English",USA,6.2,"7,622"
+tt1216475,Cars 2,movie,G,2011,106 min,"Animation, Adventure, Comedy, Family, Sport","Larry the Cable Guy, Owen Wilson, Michael Caine, Emily Mortimer","English, Japanese, Italian, French",USA,6.1,"150,876"
+tt3606752,Cars 3,movie,G,2017,102 min,"Animation, Adventure, Comedy, Family, Sport","Owen Wilson, Cristela Alonzo, Chris Cooper, Nathan Fillion",English,USA,6.7,"68,243"
+tt0361089,Valiant,movie,G,2005,76 min,"Animation, Adventure, Comedy, Family, War","Ewan McGregor, Ricky Gervais, Tim Curry, Jim Broadbent",English,"UK, USA",5.5,"20,118"
+tt0100477,The Rescuers Down Under,movie,G,1990,77 min,"Animation, Adventure, Crime, Drama, Family, Fantasy, Mystery","Bob Newhart, Eva Gabor, John Candy, Tristan Rogers",English,USA,6.9,"36,509"
+tt0082406,The Fox and the Hound,movie,G,1981,83 min,"Animation, Adventure, Drama, Family","Mickey Rooney, Kurt Russell, Pearl Bailey, Jack Albertson",English,USA,7.3,"81,227"
+tt0103477,The Little Mermaid,series,TV-Y,1992,25 min,"Animation, Adventure, Drama, Family, Fantasy","Jodi Benson, Samuel E. Wright, Edan Gross, Kenneth Mars",English,USA,6.8,"3,701"
+tt6105098,The Lion King,movie,PG,2019,118 min,"Animation, Adventure, Drama, Family, Musical","Chiwetel Ejiofor, John Oliver, James Earl Jones, John Kani","English, Xhosa, Zulu, French, Spanish","USA, UK",6.9,"189,877"
+tt0110357,The Lion King,movie,G,1994,88 min,"Animation, Adventure, Drama, Family, Musical","Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings","English, Swahili, Xhosa, Zulu",USA,8.5,"901,362"
+tt0143808,Pocahontas II: Journey to a New World,movie,G,1998,72 min,"Animation, Adventure, Drama, Family, Musical, Romance","Irene Bedard, Jim Cummings, Donal Gibson, Finola Hughes",English,USA,4.9,"13,201"
+tt0114148,Pocahontas,movie,G,1995,81 min,"Animation, Adventure, Drama, Family, Musical, Romance","Joe Baker, Christian Bale, Irene Bedard, Billy Connolly","English, Algonquin",USA,6.7,"163,209"
+tt0120131,The Lion King 2: Simba's Pride,movie,G,1998,81 min,"Animation, Adventure, Drama, Family, Musical, Romance","Matthew Broderick, Neve Campbell, Andy Dick, Robert Guillaume",English,"USA, Australia",6.5,"58,256"
+tt0447854,Bambi and the Great Prince of the Forest,movie,G,2006,75 min,"Animation, Adventure, Drama, Family, Romance","Patrick Stewart, Alexander Gould, Keith Ferguson, Brendon Baerg",English,USA,6.1,"8,741"
+tt0313680,Tarzan & Jane,movie,G,2002,75 min,"Animation, Adventure, Family","Michael T. Weiss, Olivia d'Abo, Jeff Bennett, Jim Cummings",English,USA,5.4,"5,264"
+tt1833403,Jake and the Never Land Pirates,series,TV-Y,2011,15 min,"Animation, Adventure, Family, Fantasy","David Arquette, Corey Burton, Jeff Bennett, Loren Hoskins",English,USA,5.6,"1,227"
+tt0280030,Peter Pan 2: Return to Never Land,movie,G,2002,72 min,"Animation, Adventure, Family, Fantasy","Harriet Owen, Blayne Weaver, Corey Burton, Jeff Bennett",English,"USA, Canada, Australia",5.8,"17,404"
+tt0163986,The Brave Little Toaster to the Rescue,movie,Not Rated,1999,74 min,"Animation, Adventure, Family, Fantasy","Jessica Tuck, Chris Young, Roger Kabler, Deanna Oliver","Chinese, Mandarin, Japanese, Korean, French, English",USA,6.3,"1,201"
+tt1216516,Tinker Bell and the Lost Treasure,movie,G,2009,81 min,"Animation, Adventure, Family, Fantasy","Mae Whitman, Jesse McCartney, Jane Horrocks, Lucy Liu",English,USA,6.7,"9,233"
+tt0823671,Tinker Bell,movie,G,2008,78 min,"Animation, Adventure, Family, Fantasy","Mae Whitman, Kristin Chenoweth, Raven-SymonÃ©, Lucy Liu",English,USA,6.8,"11,194"
+tt1216515,Tinker Bell and the Great Fairy Rescue,movie,G,2010,76 min,"Animation, Adventure, Family, Fantasy","Mae Whitman, Lauren Mote, Michael Sheen, Pamela Adlon",English,USA,6.9,"7,103"
+tt2380307,Coco,movie,PG,2017,105 min,"Animation, Adventure, Family, Fantasy, Music, Mystery","Anthony Gonzalez, Gael GarcÃ­a Bernal, Benjamin Bratt, Alanna Ubach","English, Spanish",USA,8.4,"333,411"
+tt0046183,Peter Pan,movie,G,1953,77 min,"Animation, Adventure, Family, Fantasy, Musical","Bobby Driscoll, Kathryn Beaumont, Hans Conried, Bill Thompson","English, American Sign Language",USA,7.3,"120,707"
+tt0043274,Alice in Wonderland,movie,G,1951,75 min,"Animation, Adventure, Family, Fantasy, Musical","Kathryn Beaumont, Ed Wynn, Richard Haydn, Sterling Holloway",English,USA,7.4,"123,377"
+tt0116683,James and the Giant Peach,movie,PG,1996,79 min,"Animation, Adventure, Family, Fantasy, Musical","Simon Callow, Richard Dreyfuss, Jane Leeves, Joanna Lumley",English,"UK, USA",6.7,"57,814"
+tt0120762,Mulan,movie,G,1998,88 min,"Animation, Adventure, Family, Fantasy, Musical, War","Miguel Ferrer, Harvey Fierstein, Freda Foh Shen, June Foray","English, Mandarin",USA,7.6,"237,755"
+tt0283426,The Jungle Book 2,movie,G,2003,72 min,"Animation, Adventure, Family, Musical","John Goodman, Haley Joel Osment, Mae Whitman, Connor Funk",English,"USA, Australia",5.4,"14,354"
+tt0061852,The Jungle Book,movie,G,1967,78 min,"Animation, Adventure, Family, Musical","Phil Harris, Sebastian Cabot, Bruce Reitherman, George Sanders",English,USA,7.6,"159,903"
+tt0091149,The Great Mouse Detective,movie,G,1986,74 min,"Animation, Adventure, Family, Musical, Mystery","Vincent Price, Barrie Ingham, Val Bettin, Susanne Pollatschek","English, French, German, Italian",USA,7.2,"42,723"
+tt0249677,Lady and the Tramp 2: Scamp's Adventure,movie,G,2001,69 min,"Animation, Adventure, Family, Musical, Romance","Scott Wolf, Alyssa Milano, Chazz Palminteri, Jeff Bennett",English,"USA, Australia",5.9,"9,837"
+tt0910970,WALLÂ·E,movie,G,2008,98 min,"Animation, Adventure, Family, Sci-Fi","Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard",English,USA,8.4,"955,757"
+tt3098856,Mission Force One,series,N/A,2015,30 min,"Animation, Adventure, Family, Sci-Fi","Fiona Bishop, Dee Bradley Baker, Tom Kenny, Olivia Munn",English,USA,6.7,416
+tt6779076,Star Wars: Forces of Destiny,series,N/A,2017,3 min,"Animation, Adventure, Family, Sci-Fi",Lupita Nyong'o,English,USA,5.0,"1,105"
+tt0133240,Treasure Planet,movie,PG,2002,95 min,"Animation, Adventure, Family, Sci-Fi","Roscoe Lee Browne, Corey Burton, Dane A. Davis, Joseph Gordon-Levitt",English,USA,7.2,"96,646"
+tt0147926,The Brave Little Toaster Goes to Mars,movie,Not Rated,1998,73 min,"Animation, Adventure, Family, Sci-Fi","Thurl Ravenscroft, Deanna Oliver, Eric Lloyd, Timothy Stack",English,USA,5.7,"1,333"
+tt0130623,Dinosaur,movie,PG,2000,82 min,"Animation, Adventure, Family, Thriller","Alfre Woodard, Ossie Davis, Max Casella, Hayden Panettiere",English,USA,6.5,"50,895"
+tt0096697,The Simpsons,series,TV-PG,1989,22 min,"Animation, Comedy","Dan Castellaneta, Nancy Cartwright, Harry Shearer, Julie Kavner","English, Spanish, Albanian, French, Japanese, German, Russian, Hindi, Swahili, Italian, Swedish, Turkish, Cantonese, Mandarin, Hebrew, Arabic, Klingon, Bengali, Czech",USA,8.7,"328,282"
+tt11281500,Star Wars Blips,series,N/A,2017,1 min,"Animation, Comedy",N/A,English,USA,6.1,29
+tt0122815,Disney's Doug,series,N/A,1996,30 min,"Animation, Comedy, Drama","Thomas McHugh, Becca Lish",English,USA,6.2,282
+tt0324572,Winnie the Pooh: A Very Merry Pooh Year,movie,G,2002,65 min,"Animation, Comedy, Drama, Family, Fantasy, Musical","Jim Cummings, Peter Cullen, John Fiedler, Michael Gough",English,USA,6.8,"1,781"
+tt0220099,The Tigger Movie,movie,G,2000,77 min,"Animation, Comedy, Drama, Family, Musical","Jim Cummings, Nikita Hopkins, Ken Sansom, John Fiedler",English,"USA, Japan",6.3,"16,402"
+tt0457993,Lilo & Stitch 2: Stitch Has a Glitch,movie,PG,2005,68 min,"Animation, Comedy, Drama, Family, Sci-Fi","Chris Sanders, Dakota Fanning, Tia Carrere, David Ogden Stiers","English, French, Spanish",USA,6.3,"11,210"
+tt0047867,Beezy Bear,movie,N/A,1955,7 min,"Animation, Comedy, Family","James MacDonald, Clarence Nash, Bill Thompson",English,USA,7.4,269
+tt3755824,Bugged,episode,N/A,2013,2 min,"Animation, Comedy, Family","Jerome Ranft, Josh Cooley",N/A,N/A,6.4,48
+tt7019028,101 Dalmatian Street,series,N/A,2019,N/A,"Animation, Comedy, Family","Josh Brener, Michaela Dietz, Bert Davis, Abigail Zoe Lewis",English,"UK, USA, Canada",6.2,124
+tt3755836,Spinning,episode,N/A,2013,2 min,"Animation, Comedy, Family","Keith Ferguson, Paul Dooley, Tony Shalhoub, Lloyd Sherr",N/A,N/A,6.8,56
+tt0040698,Pluto's Purchase,movie,N/A,1948,7 min,"Animation, Comedy, Family","Pinto Colvig, James MacDonald",English,USA,6.6,138
+tt0265632,Recess: School's Out,movie,G,2001,82 min,"Animation, Comedy, Family","Rickey D'Shon Collins, Jason Davis, Ashley Johnson, Andrew Lawrence",English,"USA, Japan",6.6,"9,032"
+tt0382936,Recess: All Growed Down,movie,G,2003,61 min,"Animation, Comedy, Family","Rickey D'Shon Collins, Jason Davis, Ashley Johnson, Myles Jeffrey",English,USA,6.7,571
+tt0382937,Recess: Taking the Fifth Grade,movie,G,2003,62 min,"Animation, Comedy, Family","Rickey D'Shon Collins, Jason Davis, Myles Jeffrey, Ashley Johnson",English,USA,6.8,"1,759"
+tt0034091,The Reluctant Dragon,movie,APPROVED,1941,74 min,"Animation, Comedy, Family","Robert Benchley, Frances Gifford, Buddy Pepper, Nana Bryant",English,USA,6.9,"2,403"
+tt11194652,What is Reading?,episode,N/A,2020,3 min,"Animation, Comedy, Family","Tony Hale, Addison Andrews, Mila Crespo, Imani Prior",N/A,N/A,8.1,32
+tt11194650,What is Cheese?,episode,N/A,2020,3 min,"Animation, Comedy, Family","Tony Hale, Jeff Garlin, Bob Peterson",N/A,N/A,7.8,26
+tt0238414,Mickey's Once Upon a Christmas,movie,Not Rated,1999,66 min,"Animation, Comedy, Family, Fantasy","Kelsey Grammer, Wayne Allwine, Russi Taylor, Tony Anselmo",English,USA,7.2,"6,247"
+tt0293737,The Proud Family,series,TV-Y,2001,30 min,"Animation, Comedy, Family, Fantasy","Kyla Pratt, Tommy Davidson, Paula Jai Parker, Jo Marie Payton",English,USA,6.4,"5,951"
+tt0424279,Mickey's Twice Upon a Christmas,movie,G,2004,68 min,"Animation, Comedy, Family, Fantasy","Wayne Allwine, Tony Anselmo, Jeff Bennett, Jim Cummings",English,USA,6.5,"3,756"
+tt0041094,The Adventures of Ichabod and Mr. Toad,movie,APPROVED,1950,68 min,"Animation, Comedy, Family, Fantasy, Horror","Bing Crosby, Basil Rathbone, Eric Blore, J. Pat O'Malley",English,USA,7.0,"11,917"
+tt0120910,Fantasia 2000,movie,G,2000,75 min,"Animation, Comedy, Family, Fantasy, Music","Steve Martin, Itzhak Perlman, Quincy Jones, Bette Midler",English,USA,7.2,"33,785"
+tt0038166,The Three Caballeros,movie,APPROVED,1945,71 min,"Animation, Comedy, Family, Fantasy, Musical","Aurora Miranda, Carmen Molina, Dora Luz, Sterling Holloway","English, Spanish, Portuguese",USA,6.5,"11,541"
+tt0032910,Pinocchio,movie,G,1940,88 min,"Animation, Comedy, Family, Fantasy, Musical","Mel Blanc, Don Brodie, Stuart Buchanan, Walter Catlett",English,USA,7.4,"124,261"
+tt0784896,Mickey Mouse Clubhouse,series,TV-Y,2006,30 min,"Animation, Comedy, Family, Fantasy, Musical","Tony Anselmo, Bill Farmer, Tress MacNeille, Russi Taylor",English,USA,5.7,"2,253"
+tt0407121,Pooh's Heffalump Movie,movie,G,2005,68 min,"Animation, Comedy, Family, Fantasy, Musical, Mystery","Jim Cummings, John Fiedler, Nikita Hopkins, Kath Soucie",English,USA,6.4,"6,031"
+tt0167038,Belle's Magical World,movie,G,1998,92 min,"Animation, Comedy, Family, Fantasy, Musical, Romance","Jeff Bennett, Robby Benson, Paige O'Hara, Jim Cummings",English,USA,5.4,"2,425"
+tt1142977,Frankenweenie,movie,PG,2012,87 min,"Animation, Comedy, Family, Horror, Sci-Fi","Catherine O'Hara, Martin Short, Martin Landau, Charlie Tahan",English,USA,6.9,"94,078"
+tt0040580,Melody Time,movie,APPROVED,1948,75 min,"Animation, Comedy, Family, Musical","Roy Rogers, Trigger, Dennis Day, The Andrews Sisters",English,USA,6.4,"4,534"
+tt0401398,Kronk's New Groove,movie,G,2005,75 min,"Animation, Comedy, Family, Musical, Romance","Patrick Warburton, Tracey Ullman, Eartha Kitt, David Spade",English,USA,5.8,"10,599"
+tt0024886,The Big Bad Wolf,movie,APPROVED,1934,9 min,"Animation, Comedy, Family, Musical, Short","Sara Berner, Billy Bletcher, Pinto Colvig, Dorothy Compton",English,USA,7.1,"1,381"
+tt0816401,The Replacements,series,TV-Y,2006,22 min,"Animation, Comedy, Family, Sci-Fi","Nancy Cartwright, Grey Griffin, Jeff Bennett, Kath Soucie",English,USA,5.8,"2,409"
+tt0042047,Winter Storage,movie,APPROVED,1949,7 min,"Animation, Comedy, Family, Short","Dessie Flynn, James MacDonald",English,USA,7.4,595
+tt0043063,Trailer Horn,movie,N/A,1950,6 min,"Animation, Comedy, Family, Short","Dessie Flynn, James MacDonald, Clarence Nash",English,USA,7.1,359
+tt0033188,Tugboat Mickey,movie,N/A,1940,7 min,"Animation, Comedy, Family, Short","Pinto Colvig, Walt Disney, Clarence Nash",English,USA,7.1,650
+tt0029930,Boat Builders,movie,N/A,1938,7 min,"Animation, Comedy, Family, Short","Pinto Colvig, Walt Disney, Marcellite Garner, Clarence Nash",English,USA,7.3,993
+tt0208185,An Extremely Goofy Movie,movie,G,2000,79 min,"Animation, Comedy, Family, Sport","Bill Farmer, Jason Marsden, Jeff Bennett, Jim Cummings",English,"USA, Australia",6.4,"9,244"
+tt0317219,Cars,movie,G,2006,117 min,"Animation, Comedy, Family, Sport","Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy","English, Italian, Japanese, Yiddish",USA,7.1,"349,674"
+tt1887491,Take Two with Phineas and Ferb,series,TV-G,2010,2 min,"Animation, Comedy, Family, Talk-Show","Thomas Brodie-Sangster, Vincent Martella, Alyson Stoner",English,USA,6.5,186
+tt4951098,Descendants: Wicked World,series,N/A,2015,2 min,"Animation, Comedy, Fantasy","Dove Cameron, Sofia Carson, Sarah Jeffery, Brenna D'Amico",English,USA,6.7,707
+tt8352934,LEGO Star Wars: The Resistance Rises,series,N/A,2016,24 min,"Animation, Comedy, Sci-Fi","Ellen Dubin, Arif S. Kinchen",English,"USA, Denmark",5.6,17
+tt0034492,Bambi,movie,G,1942,70 min,"Animation, Drama, Family","Hardie Albright, Stan Alexander, Bobette Audrey, Peter Behn",English,USA,7.3,"125,824"
+tt0969647,The Little Mermaid: Ariel's Beginning,movie,G,2008,77 min,"Animation, Drama, Family, Fantasy, Musical","Jodi Benson, Samuel E. Wright, Jim Cummings, Sally Field",English,USA,6.3,"8,001"
+tt0240684,The Little Mermaid 2: Return to the Sea,movie,G,2000,75 min,"Animation, Drama, Family, Fantasy, Musical","Jodi Benson, Samuel E. Wright, Tara Strong, Pat Carroll",English,"USA, Canada, Australia, Taiwan",5.6,"16,648"
+tt0116583,The Hunchback of Notre Dame,movie,G,1996,91 min,"Animation, Drama, Family, Musical, Romance","Jason Alexander, Mary Kay Bergman, Corey Burton, Jim Cummings","English, Latin","USA, France",6.9,"135,545"
+tt6688750,Puppy Dog Pals,series,TV-Y,2017,24 min,"Animation, Family","Issac Ryan Brown, Sam Lavagnino, Harland Williams, Jessica DiCicco",English,USA,7.1,611
+tt0031945,Society Dog Show,movie,N/A,1939,8 min,"Animation, Family, Comedy","Pinto Colvig, Walt Disney",English,USA,7.1,350
+tt0031905,Sea Scouts,movie,N/A,1939,8 min,"Animation, Family, Comedy, Short",Clarence Nash,English,USA,6.9,556
+tt0031086,Beach Picnic,movie,APPROVED,1939,8 min,"Animation, Family, Comedy, Short","Lee Millar, Clarence Nash",English,USA,6.7,675
+tt0197911,Spider-Woman,series,TV-Y7,1979,21 min,"Animation, Family, Fantasy","Joan Van Ark, Bryan Scott, Larry Carroll, Vic Perrin",English,USA,5.8,438
+tt0088528,Adventures of the Gummi Bears,series,TV-Y,1985,30 min,"Animation, Family, Fantasy","June Foray, Noelle North, Lorenzo Music, Katie Leigh",English,USA,7.5,"8,913"
+tt1217213,Secret of the Wings,movie,G,2012,75 min,"Animation, Family, Fantasy","Mae Whitman, Lucy Hale, Timothy Dalton, Jeff Bennett",English,"USA, India, UK",7.1,"10,155"
+tt0032455,Fantasia,movie,G,1941,125 min,"Animation, Family, Fantasy, Music","Deems Taylor, Leopold Stokowski, The Philadelphia Orchestra",English,USA,7.8,"84,999"
+tt0118692,Beauty and the Beast: The Enchanted Christmas,movie,G,1997,72 min,"Animation, Family, Fantasy, Music, Musical","Paige O'Hara, Robby Benson, Jerry Orbach, David Ogden Stiers",English,"Canada, USA",6.1,"8,603"
+tt0107688,The Nightmare Before Christmas,movie,PG,1993,76 min,"Animation, Family, Fantasy, Musical","Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey",English,USA,8.0,"281,155"
+tt0111419,Thumbelina,movie,G,1994,86 min,"Animation, Family, Fantasy, Musical, Romance","Gino Conforti, Barbara Cook, Jodi Benson, Will Ryan",English,"Ireland, USA, Canada, UK, Denmark, Spain, Poland, Hungary",6.3,"14,576"
+tt0042332,Cinderella,movie,G,1950,74 min,"Animation, Family, Fantasy, Musical, Romance","Ilene Woods, Eleanor Audley, Verna Felton, Claire Du Brey",English,USA,7.3,"139,378"
+tt0465940,Cinderella 3: A Twist in Time,movie,G,2007,74 min,"Animation, Family, Fantasy, Musical, Romance","Jennifer Hale, Christopher Daniel Barnes, Susanne Blakeslee, Tress MacNeille",English,USA,5.9,"8,691"
+tt0053285,Sleeping Beauty,movie,G,1959,75 min,"Animation, Family, Fantasy, Musical, Romance","Mary Costa, Bill Shirley, Eleanor Audley, Verna Felton",English,USA,7.2,"129,694"
+tt0097757,The Little Mermaid,movie,G,1989,83 min,"Animation, Family, Fantasy, Musical, Romance","Rene Auberjonois, Christopher Daniel Barnes, Jodi Benson, Pat Carroll","English, French",USA,7.6,"227,707"
+tt0101414,Beauty and the Beast,movie,G,1991,84 min,"Animation, Family, Fantasy, Musical, Romance","Robby Benson, Jesse Corti, Rex Everhart, Angela Lansbury","English, French",USA,8.0,"404,632"
+tt0029583,Snow White and the Seven Dwarfs,movie,G,1938,83 min,"Animation, Family, Fantasy, Musical, Romance","Roy Atwell, Stuart Buchanan, Adriana Caselotti, Eddie Collins",English,USA,7.6,"174,379"
+tt0291082,Cinderella 2: Dreams Come True,movie,G,2002,73 min,"Animation, Family, Fantasy, Romance","Jennifer Hale, Rob Paulsen, Corey Burton, Andre Stojka",English,USA,5.0,"9,985"
+tt0023422,Santa's Workshop,movie,N/A,1932,7 min,"Animation, Family, Short","Pinto Colvig, Walt Disney, Allan Watson",English,USA,7.4,"1,320"
+tt2746314,Henry Hugglemonster,series,TV-Y,2013,22 min,"Animation, Fantasy","Lara Jill Miller, Hynden Walch, Tom Kenny, Grey Griffin","English, Korean","Ireland, UK, USA, South Korea, Canada",5.1,312
+tt0203268,Silver Surfer,series,TV-Y7,1998,30 min,"Animation, Sci-Fi, Action, Thriller","Paul Essiembre, James Blendick",English,"USA, Canada",7.1,"1,778"
+tt0377770,Destino,movie,PG,2003,7 min,"Animation, Short","Jennifer Esposito, Dora Luz",English,"France, USA",7.9,"3,695"
+tt9073748,Marvel Rising: Chasing Ghosts,movie,N/A,2019,22 min,"Animation, Short, Action, Adventure","Dee Bradley Baker, Chloe Bennet, Dove Cameron, Skai Jackson",English,USA,4.6,242
+tt11113964,Marvel Rising: Operation Shuri,movie,TV-Y7-FV,2019,21 min,"Animation, Short, Action, Adventure",N/A,English,USA,N/A,N/A
+tt8952294,Auntie Edna,movie,N/A,2018,5 min,"Animation, Short, Action, Adventure, Comedy, Family","Brad Bird, Craig T. Nelson, Eli Fucile, Maeve Andrews",English,USA,7.1,"1,019"
+tt1330219,Tokyo Mater,movie,G,2008,7 min,"Animation, Short, Action, Adventure, Comedy, Family","Larry the Cable Guy, Keith Ferguson, Michael Wallis, Mach Tony Kobayashi",English,USA,6.6,"1,432"
+tt5439480,Milo Murphy's Law,series,TV-Y7,2016,12 min,"Animation, Short, Action, Adventure, Comedy, Family, Fantasy","'Weird Al' Yankovic, Sabrina Carpenter, Mekai Curtis, Dan Povenmire",English,USA,7.5,"1,578"
+tt2341339,Randy Cunningham: 9th Grade Ninja,series,TV-G,2012,15 min,"Animation, Short, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi","Ben Schwartz, Andrew Caldwell, John DiMaggio, Kevin Michael Richardson",English,"UK, USA, Ireland",6.7,652
+tt2769458,Sheriff Callie's Wild West,series,TV-Y,2014,25 min,"Animation, Short, Action, Adventure, Comedy, Family, Musical, Western","Lucas Grabeel, Kevin Michael Richardson, Jeff Bennett, Gary Anthony Williams","English, French","USA, South Korea, France",6.5,503
+tt10863978,Marvel Rising: Battle of the Bands,movie,N/A,2019,22 min,"Animation, Short, Action, Adventure, Family","Dove Cameron, Skai Jackson, Kathreen Khavari, Tyler Posey",English,USA,5.0,85
+tt7103168,Smash and Grab,movie,PG,2019,8 min,"Animation, Short, Action, Adventure, Family, Sci-Fi",N/A,English,USA,6.7,399
+tt6135682,Spider-Man,series,TV-Y7,2017,21 min,"Animation, Short, Action, Adventure, Family, Sci-Fi","Robbie Daymond, Nadji Jeter, Fred Tatasciore, Laura Bailey",English,USA,6.1,"1,440"
+tt9073722,Marvel Rising: Initiation,series,N/A,2018,N/A,"Animation, Short, Action, Comedy, Drama, Family","Dove Cameron, Tyler Posey, Dee Bradley Baker, Kathreen Khavari",English,USA,4.9,255
+tt4661600,Sanjay's Super Team,movie,PG,2015,7 min,"Animation, Short, Action, Family, Fantasy, Thriller","Brent Schraff, Sunny Singh Attar, Arun Rao, Jaquelynn Herrera",English,USA,6.9,"3,879"
+tt9073746,Marvel Rising: Heart of Iron,movie,N/A,2019,44 min,"Animation, Short, Action, Sci-Fi","Dee Bradley Baker, Chloe Bennet, Dove Cameron, Robbie Daymond",English,USA,4.0,306
+tt5480340,Ice Age: The Great Egg-Scapade,movie,TV-PG,2016,25 min,"Animation, Short, Adventure, Comedy, Family","Blake Anderson, Tyree Brown, David Cowgill, Jennifer Elrod",English,USA,5.9,"2,814"
+tt0455565,Jack-Jack Attack,movie,Not Rated,2008,5 min,"Animation, Short, Adventure, Comedy, Family","Bret 'Brook' Parker, Bud Luckey, Eli Fucile, Jason Lee",English,USA,7.6,"13,829"
+tt7165904,Big City Greens,series,TV-Y7,2018,22 min,"Animation, Short, Adventure, Comedy, Family","Chris Houghton, Marieve Herington, Bob Joles, Artemis Pebdani",English,USA,6.6,567
+tt1368151,Super Rhino,movie,G,2009,4 min,"Animation, Short, Adventure, Comedy, Family","Miley Cyrus, Mark Walton, Susie Essman, Malcolm McDowell",English,USA,6.3,854
+tt0136658,Quack Pack,series,TV-Y,1996,30 min,"Animation, Short, Adventure, Comedy, Family","Tony Anselmo, Jeannie Elias, Elizabeth Daily, Pamela Adlon",English,USA,6.8,"3,478"
+tt0030448,Mickey's Trailer,movie,Not Rated,1938,8 min,"Animation, Short, Adventure, Comedy, Family","Walt Disney, Clarence Nash, Danny Webb",English,USA,7.9,"2,542"
+tt0100409,The Prince and the Pauper,movie,G,1990,25 min,"Animation, Short, Adventure, Comedy, Family","Wayne Allwine, Bill Farmer, Arthur Burghardt, Tony Anselmo",English,USA,7.1,"2,791"
+tt8050740,Amphibia,series,TV-Y7,2019,23 min,"Animation, Short, Adventure, Comedy, Family, Fantasy","Brenda Song, Justin Felbinger, Bill Farmer, Amanda Leighton",English,USA,7.8,912
+tt0465327,The Emperor's New School,series,TV-G,2006,30 min,"Animation, Short, Adventure, Comedy, Family, Fantasy","J.P. Manoux, Patrick Warburton, Curtis Armstrong, Eartha Kitt",English,USA,6.6,"3,977"
+tt3116154,Party Central,movie,PG,2014,5 min,"Animation, Short, Adventure, Comedy, Family, Fantasy","Lori Alan, Carlos Alazraqui, Billy Crystal, Charlie Day",English,USA,7.1,"1,480"
+tt0257325,Teacher's Pet,series,TV-Y,2000,30 min,"Animation, Short, Adventure, Comedy, Family, Fantasy","Shaun Fleming, Nathan Lane",English,USA,6.4,378
+tt6337766,Muppet Babies,series,TV-Y,2018,23 min,"Animation, Short, Adventure, Comedy, Family, Fantasy, Musical","Dee Bradley Baker, Eric Bauza, Matt Danner, Jessica DiCicco",N/A,"South Korea, USA, China, Japan",7.0,329
+tt5452780,Olaf's Frozen Adventure,movie,G,2017,22 min,"Animation, Short, Adventure, Comedy, Family, Fantasy, Musical","Josh Gad, Idina Menzel, Kristen Bell, Jonathan Groff",English,USA,5.5,"10,650"
+tt0274240,The Book of Pooh,series,TV-Y,2001,30 min,"Animation, Short, Adventure, Comedy, Family, Musical","Roger Jackson, John Fiedler, Jim Cummings, Ken Sansom",English,USA,6.3,412
+tt1334585,Burn-E,movie,G,2008,8 min,"Animation, Short, Adventure, Comedy, Family, Sci-Fi","Angus MacLane, Tessa Swigart",English,USA,7.7,"9,708"
+tt6264782,Mickey Mouse Mixed-Up Adventures,series,TV-Y,2017,21 min,"Animation, Short, Adventure, Comedy, Family, Sport","Bret Iwan, Russi Taylor, Bill Farmer, Tress MacNeille",English,USA,6.2,335
+tt0805905,My Friends Tigger & Pooh,series,TV-Y,2007,30 min,"Animation, Short, Adventure, Family","Angelica Bolognesi Bonacini, Kimberlea Berg, Jim Cummings, ChloÃ« Grace Moretz","English, Spanish, German, Japanese, French, Abkhazian, Portuguese",USA,5.7,363
+tt2229129,Fancy Nancy,series,TV-Y,2018,22 min,"Animation, Short, Adventure, Family, Musical","Malachi Barton, Rachael MacFarlane, Blake Moore, Alyson Hannigan",N/A,"USA, Canada",5.4,193
+tt9536836,Loop,movie,PG,2020,9 min,"Animation, Short, Adventure, Family, Mystery","Madison Bandy, Christiano Delgado, Louis Gonzales, Asher Brodkey",English,USA,6.7,362
+tt6603254,Rocket & Groot,series,N/A,2017,N/A,"Animation, Short, Adventure, Sci-Fi","Trevor Devall, Kevin Michael Richardson",N/A,N/A,7.0,160
+tt0028390,Toby Tortoise Returns,movie,APPROVED,1936,7 min,"Animation, Short, Comedy","Alyce Ardell, Marcellite Garner, Eddie Holden, Leone Le Doux",English,USA,7.0,532
+tt0032814,Mr. Duck Steps Out,movie,TV-G,1940,8 min,"Animation, Short, Comedy",Clarence Nash,English,USA,7.5,511
+tt0045696,Don's Fountain of Youth,movie,APPROVED,1953,6 min,"Animation, Short, Comedy",Clarence Nash,English,USA,7.4,376
+tt0022899,Flowers and Trees,movie,APPROVED,1932,8 min,"Animation, Short, Comedy","Esther Campbell, Marion Darlington",English,USA,7.5,"1,547"
+tt0034874,How to Play Baseball,movie,N/A,1942,8 min,"Animation, Short, Comedy",George Johnson,English,USA,7.3,462
+tt0034875,How to Swim,movie,N/A,1942,8 min,"Animation, Short, Comedy","George Johnson, John McLeish",English,USA,7.1,386
+tt0047864,Bearly Asleep,movie,N/A,1955,8 min,"Animation, Short, Comedy","James MacDonald, Clarence Nash",English,USA,7.6,254
+tt0033448,Canine Caddy,movie,N/A,1941,7 min,"Animation, Short, Comedy",Pinto Colvig,English,USA,6.7,269
+tt0038489,Double Dribble,movie,N/A,1946,7 min,"Animation, Short, Comedy",Pinto Colvig,English,USA,6.9,318
+tt0038674,A Knight for a Day,movie,APPROVED,1946,7 min,"Animation, Short, Comedy",Pinto Colvig,English,USA,7.0,488
+tt0033824,Lend a Paw,movie,APPROVED,1941,8 min,"Animation, Short, Comedy","Pinto Colvig, Walt Disney",English,USA,7.1,803
+tt0029161,Lonesome Ghosts,movie,N/A,1937,9 min,"Animation, Short, Comedy, Family","Billy Bletcher, Pinto Colvig, Walt Disney, Clarence Nash",English,USA,7.7,"1,838"
+tt1537759,Dug's Special Mission,movie,TV-PG,2009,5 min,"Animation, Short, Comedy, Family","Bob Peterson, Delroy Lindo, Jerome Ranft",English,USA,7.0,"5,161"
+tt8980868,Purl,movie,PG,2019,8 min,"Animation, Short, Comedy, Family","Bret 'Brook' Parker, Michael Daley, Michael Frederickson, Erik Langley",English,USA,6.4,"1,158"
+tt2768802,Mickey Mouse,series,TV-G,2013,4 min,"Animation, Short, Comedy, Family","Chris Diamantopoulos, Russi Taylor, Bill Farmer, Tony Anselmo",English,USA,8.1,"1,772"
+tt0033460,Chef Donald,movie,APPROVED,1941,7 min,"Animation, Short, Comedy, Family","Clarence Nash, Sarah Selby",English,USA,7.3,764
+tt0039263,Chip an' Dale,movie,APPROVED,1947,7 min,"Animation, Short, Comedy, Family","Dessie Flynn, James MacDonald, Clarence Nash",English,USA,7.4,"1,223"
+tt0043890,Out of Scale,movie,N/A,1951,7 min,"Animation, Short, Comedy, Family","Dessie Flynn, James MacDonald, Clarence Nash",English,USA,7.6,504
+tt0030128,Ferdinand the Bull,movie,APPROVED,1938,8 min,"Animation, Short, Comedy, Family",Don Wilson,English,USA,7.2,"2,254"
+tt0032401,Donald's Dog Laundry,movie,N/A,1940,8 min,"Animation, Short, Comedy, Family","Lee Millar, Clarence Nash",English,USA,7.0,572
+tt0032071,Ugly Duckling,movie,APPROVED,1939,9 min,"Animation, Short, Comedy, Family",N/A,None,USA,7.6,"2,421"
+tt1134859,Your Friend the Rat,movie,G,2007,11 min,"Animation, Short, Comedy, Family","Patton Oswalt, Peter Sohn, Lou Romano, Tony Russel",English,USA,7.1,"4,944"
+tt0027126,The Tortoise and the Hare,movie,APPROVED,1935,9 min,"Animation, Short, Comedy, Family","Pinto Colvig, Eddie Holden, Ned Norton",English,USA,7.2,"2,028"
+tt0045038,Pluto's Party,movie,APPROVED,1952,7 min,"Animation, Short, Comedy, Family","Pinto Colvig, James MacDonald",English,USA,6.5,383
+tt0248808,For the Birds,movie,G,2001,3 min,"Animation, Short, Comedy, Family",Ralph Eggleston,None,USA,8.0,"28,126"
+tt0044821,Lambert the Sheepish Lion,movie,APPROVED,1952,8 min,"Animation, Short, Comedy, Family",Sterling Holloway,English,USA,7.7,"1,848"
+tt0035064,Mickey's Birthday Party,movie,APPROVED,1942,8 min,"Animation, Short, Comedy, Family","Thelma Boardman, Pinto Colvig, Walt Disney, Florence Gill",English,USA,6.6,607
+tt0028726,Clock Cleaners,movie,APPROVED,1937,9 min,"Animation, Short, Comedy, Family","Walt Disney, James MacDonald, Clarence Nash, Danny Webb",English,USA,7.5,"1,987"
+tt0085936,Mickey's Christmas Carol,movie,G,1983,26 min,"Animation, Short, Comedy, Family, Fantasy","Alan Young, Wayne Allwine, Hal Smith, Will Ryan",English,USA,8.1,"9,549"
+tt0323250,Mike's New Car,movie,Not Rated,2002,4 min,"Animation, Short, Comedy, Family, Fantasy","Billy Crystal, John Goodman",English,USA,7.1,"11,759"
+tt1245104,Presto,movie,G,2008,5 min,"Animation, Short, Comedy, Family, Fantasy",Doug Sweetland,English,USA,8.4,"21,778"
+tt6267732,Lou,movie,G,2017,7 min,"Animation, Short, Comedy, Family, Fantasy",Jack Bright,English,USA,7.9,"5,581"
+tt0045037,Pluto's Christmas Tree,movie,APPROVED,1952,7 min,"Animation, Short, Comedy, Family, Fantasy","Ruth Clifford, Pinto Colvig, Dessie Flynn, James MacDonald",English,USA,7.7,"2,023"
+tt1850374,Toy Story Toons: Hawaiian Vacation,movie,G,2011,6 min,"Animation, Short, Comedy, Family, Fantasy","Tom Hanks, Tim Allen, Joan Cusack, Kristen Schaal","English, Spanish",USA,7.3,"7,148"
+tt2033372,Toy Story Toons: Small Fry,movie,G,2011,7 min,"Animation, Short, Comedy, Family, Fantasy","Tom Hanks, Tim Allen, Wallace Shawn, Joan Cusack",English,USA,7.1,"5,326"
+tt1425244,Partly Cloudy,movie,G,2009,6 min,"Animation, Short, Comedy, Family, Fantasy","Tony Fucile, Lori Richardson",None,USA,8.2,"19,102"
+tt1620446,Day & Night,movie,G,2010,6 min,"Animation, Short, Comedy, Family, Fantasy",Wayne Dyer,English,USA,8.1,"16,108"
+tt7010622,Vampirina,series,TV-Y,2017,25 min,"Animation, Short, Comedy, Family, Fantasy, Musical","Isabella Crovetti, Jordan Alexa Davis, Benji Risley, ViviAnn Yee",English,"Ireland, USA",6.8,530
+tt0901686,Mater and the Ghostlight,movie,G,2006,7 min,"Animation, Short, Comedy, Family, Horror","Larry the Cable Guy, Owen Wilson, Michael Wallis, Bonnie Hunt",English,USA,6.6,"7,151"
+tt0026094,The Band Concert,movie,TV-Y7,1935,9 min,"Animation, Short, Comedy, Family, Music",Clarence Nash,English,USA,7.9,"2,714"
+tt0479113,One Man Band,movie,G,2006,4 min,"Animation, Short, Comedy, Family, Music",N/A,None,USA,7.7,"13,993"
+tt0026423,The Golden Touch,movie,N/A,1935,10 min,"Animation, Short, Comedy, Family, Musical",Billy Bletcher,English,USA,6.9,856
+tt0024660,Three Little Pigs,movie,PASSED,1933,9 min,"Animation, Short, Comedy, Family, Musical","Billy Bletcher, Pinto Colvig, Dorothy Compton, Mary Moder",English,USA,7.5,"4,805"
+tt0395479,Boundin',movie,G,2004,5 min,"Animation, Short, Comedy, Family, Musical",Bud Luckey,English,USA,7.0,"12,312"
+tt0025997,The Wise Little Hen,movie,N/A,1934,8 min,"Animation, Short, Comedy, Family, Musical","Florence Gill, Clarence Nash",English,USA,7.1,"1,567"
+tt0029339,The Old Mill,movie,APPROVED,1937,9 min,"Animation, Short, Comedy, Family, Musical","Marie Arbuckle, Jean MacMurray, Louise Myers, Clarence Nash",None,USA,7.9,"3,165"
+tt0019422,Steamboat Willie,movie,TV-Y7,1929,8 min,"Animation, Short, Comedy, Family, Musical",Walt Disney,English,USA,7.6,"6,678"
+tt11898442,Playdate with Destiny,movie,G,2020,5 min,"Animation, Short, Comedy, Family, Romance",Chris Edgerly,English,USA,6.7,686
+tt0027964,Mickey's Rival,movie,APPROVED,1936,8 min,"Animation, Short, Comedy, Family, Romance","Sonny Dawson, Walt Disney, Marcellite Garner, Leone Le Doux",English,USA,6.9,533
+tt0945571,Lifted,movie,G,2007,5 min,"Animation, Short, Comedy, Family, Sci-Fi",N/A,None,USA,7.9,"17,178"
+tt0030069,Donald's Golf Game,movie,N/A,1938,8 min,"Animation, Short, Comedy, Family, Sport",Clarence Nash,English,USA,6.8,764
+tt0031431,The Hockey Champ,movie,APPROVED,1939,7 min,"Animation, Short, Comedy, Family, Sport",Clarence Nash,English,USA,7.1,756
+tt0033356,The Art of Skiing,movie,APPROVED,1941,8 min,"Animation, Short, Comedy, Family, Sport","George Johnson, John McLeish, Hannes Schroll",English,USA,7.3,"1,061"
+tt0035148,The Olympic Champ,movie,APPROVED,1942,7 min,"Animation, Short, Comedy, Family, Sport",John McLeish,English,USA,7.1,634
+tt0036933,How to Play Football,movie,APPROVED,1944,7 min,"Animation, Short, Comedy, Family, Sport",Pinto Colvig,English,USA,7.2,826
+tt0028981,Hawaiian Holiday,movie,PASSED,1937,8 min,"Animation, Short, Comedy, Family, Sport","Pinto Colvig, Walt Disney, Marcellite Garner, Clarence Nash",English,USA,7.2,823
+tt9536832,Kitbull,movie,PG,2019,9 min,"Animation, Short, Drama, Family",N/A,English,USA,8.0,"3,834"
+tt0131409,Geri's Game,movie,N/A,1997,4 min,"Animation, Short, Family",Bob Peterson,None,USA,7.9,"21,679"
+tt2565938,The Legend of Mor'du,movie,N/A,2012,7 min,"Animation, Short, Family","Julie Walters, Steve Purcell, Callum O'Neill",English,USA,6.2,"1,084"
+tt0093832,Red's Dream,movie,G,1987,4 min,"Animation, Short, Family",Mel Blanc,English,USA,6.4,"6,019"
+tt5613056,Piper,movie,G,2016,6 min,"Animation, Short, Family",N/A,None,USA,8.4,"24,041"
+tt0078281,The Small One,movie,G,1978,26 min,"Animation, Short, Family","Sean Marshall, William Woodson, Olan Soule, Hal Smith",English,USA,7.8,"1,181"
+tt10167262,Lamp Life,movie,N/A,2020,7 min,"Animation, Short, Family, Fantasy","Annie Potts, Ally Maki, Jim Hanks, Emily Davis",English,USA,6.7,980
+tt9536846,Float,movie,PG,2019,7 min,"Animation, Short, Family, Fantasy","Eli Fucile, Mika Kubo, Bobby Rubio, Luna Watson",English,USA,7.4,"1,031"
+tt0096273,Tin Toy,movie,G,1988,5 min,"Animation, Short, Family, Fantasy","Mel Blanc, Rob Paulsen",English,USA,6.5,"9,253"
+tt8075496,Bao,movie,G,2018,8 min,"Animation, Short, Family, Fantasy","Sindy Lau, Daniel Kai Lin, Sharmaine Yeoh, Tim Zhang","Chinese, English","USA, Canada",7.5,"19,660"
+tt1957945,La Luna,movie,G,2012,7 min,"Animation, Short, Family, Fantasy","Tony Fucile, Krista Sheffler, Phil Sheridan",None,USA,8.0,"12,217"
+tt0036326,Saludos Amigos,movie,APPROVED,1943,42 min,"Animation, Short, Family, Fantasy, Music","Fred Shields, JosÃ© Oliveira","English, Portuguese",USA,6.2,"4,784"
+tt1710295,Doc McStuffins,series,G,2012,11 min,"Animation, Short, Family, Fantasy, Music, Musical","Lara Jill Miller, Loretta Devine, Robbie Rist, Jess Harnell",English,"USA, Ireland",6.8,"1,734"
+tt0025184,The Goddess of Spring,movie,APPROVED,1934,10 min,"Animation, Short, Family, Fantasy, Musical","Kenny Baker, Jessica Dragonette, Tudor Williams",English,USA,6.9,483
+tt0024451,The Pied Piper,movie,N/A,1933,8 min,"Animation, Short, Family, Fantasy, Musical",N/A,English,USA,6.7,659
+tt2616880,The Blue Umbrella,movie,G,2013,7 min,"Animation, Short, Family, Fantasy, Romance",Sarah Jaffe,English,USA,7.6,"8,311"
+tt2140373,Saving Mr. Banks,movie,PG-13,2013,125 min,"Biography, Comedy, Drama","Emma Thompson, Tom Hanks, Annie Rose Buckley, Colin Farrell",English,"USA, UK, Australia",7.5,"147,182"
+tt0218440,Miracle in Lane 2,movie,G,2000,120 min,"Biography, Comedy, Drama, Family, Sport","Frankie Muniz, Rick Rossovich, Molly Hagan, Patrick Levis",English,USA,6.0,"1,835"
+tt0166896,The Straight Story,movie,G,1999,112 min,"Biography, Drama","Sissy Spacek, Jane Galloway Heitz, Joseph A. Carpenter, Donald Wiegert",English,"France, UK, USA",8.0,"77,452"
+tt0323810,Right on Track,movie,TV-G,2003,89 min,"Biography, Drama, Family","Beverley Mitchell, Brie Larson, Jon Lindstrom, Jodi Russell",English,USA,6.3,"1,087"
+tt0213565,The Color of Friendship,movie,TV-G,2000,87 min,"Biography, Drama, Family","Lindsey Haun, Shadia Simmons, Carl Lumbly, Penny Johnson Jerald",English,"Canada, USA",7.4,"3,027"
+tt1028576,Secretariat,movie,PG,2010,123 min,"Biography, Drama, Family, History, Sport","Diane Lane, John Malkovich, Dylan Walsh, Margo Martindale",English,USA,7.2,"25,455"
+tt0059742,The Sound of Music,movie,G,1965,172 min,"Biography, Drama, Family, Musical, Romance","Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn","English, German",USA,8.0,"194,154"
+tt0281905,Double Teamed,movie,TV-G,2002,120 min,"Biography, Drama, Family, Sport","Poppi Monroe, Annie McElwain, Teal Redmann, Nick Searcy",English,USA,6.1,"2,820"
+tt0349825,Miracle,movie,PG,2004,135 min,"Biography, Drama, History, Sport","Kurt Russell, Patricia Clarkson, Noah Emmerich, Sean McCann",English,"Canada, USA",7.5,"45,667"
+tt0210945,Remember the Titans,movie,PG,2000,113 min,"Biography, Drama, Sport","Denzel Washington, Will Patton, Wood Harris, Ryan Hurst",English,USA,7.8,"190,945"
+tt0388980,The Greatest Game Ever Played,movie,PG,2005,120 min,"Biography, Drama, Sport","James Paxton, Tom Rack, Armand Laroche, Peter Hurley",English,"USA, Canada",7.4,"26,823"
+tt0385726,Glory Road,movie,PG,2006,118 min,"Biography, Drama, Sport","Josh Lucas, Derek Luke, Austin Nichols, Jon Voight",English,USA,7.2,"41,442"
+tt4341582,Queen of Katwe,movie,PG,2016,124 min,"Biography, Drama, Sport","Madina Nalwanga, David Oyelowo, Lupita Nyong'o, Martin Kabanza",English,USA,7.4,"14,265"
+tt0445990,Invincible,movie,PG,2006,105 min,"Biography, Drama, Sport","Mark Wahlberg, Greg Kinnear, Elizabeth Banks, Kevin Conway",English,USA,7.1,"63,682"
+tt0094739,Big Business,movie,PG,1988,97 min,Comedy,"Bette Midler, Lily Tomlin, Fred Ward, Edward Herrmann","English, Italian",USA,6.4,"11,575"
+tt8115666,Fast Layne,series,N/A,2019,30 min,Comedy,"Enid-Raye Adams, Sophie Pollono, Sofia Rosinsky, Brandon Rossel",English,USA,5.5,144
+tt0366777,Millions,movie,PG-13,2005,98 min,"Comedy, Crime, Drama, Family","Alex Etel, Lewis McGibbon, James Nesbitt, Daisy Donovan",English,UK,6.9,"24,147"
+tt0098536,Turner & Hooch,movie,PG,1989,97 min,"Comedy, Crime, Drama, Thriller","Tom Hanks, Mare Winningham, Craig T. Nelson, Reginald VelJohnson",English,USA,6.2,"61,665"
+tt0119303,Home Alone 3,movie,PG,1997,102 min,"Comedy, Crime, Family","Alex D. Linz, Olek Krupa, Rya Kihlstedt, Lenny von Dohlen","English, Polish",USA,4.5,"101,062"
+tt0109287,Blank Check,movie,PG,1994,93 min,"Comedy, Crime, Family","Brian Bonsall, Karen Duffy, James Rebhorn, Jayne Atkinson",English,USA,5.3,"18,277"
+tt0105417,Sister Act,movie,PG,1992,100 min,"Comedy, Crime, Family, Music","Whoopi Goldberg, Maggie Smith, Kathy Najimy, Wendy Makkena",English,USA,6.4,"83,764"
+tt0282521,Get a Clue,movie,TV-G,2002,83 min,"Comedy, Crime, Family, Mystery","Lindsay Lohan, Bug Hall, Ian Gomez, Brenda Song",English,USA,5.1,"5,713"
+tt0059793,That Darn Cat!,movie,APPROVED,1965,116 min,"Comedy, Crime, Family, Thriller","Hayley Mills, Dean Jones, Dorothy Provine, Roddy McDowall","English, French",USA,6.8,"5,542"
+tt0317132,Because of Winn-Dixie,movie,PG,2005,106 min,"Comedy, Drama, Family","AnnaSophia Robb, Jeff Daniels, Cicely Tyson, Dave Matthews",English,USA,6.3,"10,040"
+tt1865368,Frenemies,movie,TV-G,2012,87 min,"Comedy, Drama, Family","Bella Thorne, Zendaya, Mary Mouser, Nick Robinson",English,USA,5.0,"3,969"
+tt0105958,Boy Meets World,series,TV-G,1993,23 min,"Comedy, Drama, Family","Ben Savage, William Daniels, Betsy Randle, Will Friedle",English,USA,8.1,"37,279"
+tt1415889,Good Luck Charlie,series,TV-G,2010,22 min,"Comedy, Drama, Family","Bridgit Mendler, Leigh-Allyn Baker, Bradley Steven Perry, Mia Talerico",English,USA,7.0,"17,475"
+tt1828976,"Good Luck Charlie, It's Christmas!",movie,TV-G,2011,90 min,"Comedy, Drama, Family","Bridgit Mendler, Leigh-Allyn Baker, Bradley Steven Perry, Mia Talerico","English, Korean",USA,6.4,"4,577"
+tt0299943,Gotta Kick It Up!,movie,TV-G,2002,78 min,"Comedy, Drama, Family","Camille Guaty, America Ferrera, Jhoanna Flores, Suilma Rodriguez",English,USA,5.8,"1,551"
+tt1196339,Princess Protection Program,movie,TV-G,2009,90 min,"Comedy, Drama, Family","Demi Lovato, Selena Gomez, Nicholas Braun, Molly Hagan",English,USA,5.6,"20,758"
+tt0054195,Pollyanna,movie,APPROVED,1960,134 min,"Comedy, Drama, Family","Hayley Mills, Jane Wyman, Richard Egan, Karl Malden",English,USA,7.4,"8,533"
+tt0294425,Cadet Kelly,movie,TV-G,2002,101 min,"Comedy, Drama, Family","Hilary Duff, Christy Carlson Romano, Gary Cole, Shawn Ashmore",English,"USA, Canada",5.5,"12,570"
+tt0273366,Lizzie McGuire,series,TV-G,2001,30 min,"Comedy, Drama, Family","Hilary Duff, Lalaine, Adam Lamberg, Hallie Todd",English,USA,6.6,"16,649"
+tt0494716,Read It and Weep,movie,TV-G,2006,84 min,"Comedy, Drama, Family","Kay Panabaker, Danielle Panabaker, Alexandra Krosney, Marquise C. Brown",English,USA,5.5,"4,915"
+tt0245380,Quints,movie,TV-G,2000,83 min,"Comedy, Drama, Family","Kimberly J. Brown, Daniel Roebuck, Elizabeth Morehead, Shadia Simmons",English,"Canada, USA",5.7,"2,030"
+tt0039628,Miracle on 34th Street,movie,Not Rated,1947,96 min,"Comedy, Drama, Family","Maureen O'Hara, John Payne, Edmund Gwenn, Gene Lockhart","English, Dutch",USA,7.9,"38,715"
+tt2543796,Girl Meets World,series,TV-G,2014,23 min,"Comedy, Drama, Family","Rowan Blanchard, Ben Savage, Sabrina Carpenter, Peyton Meyer",English,USA,7.2,"12,220"
+tt0274557,Hounded,movie,TV-G,2001,91 min,"Comedy, Drama, Family","Tahj Mowry, Craig Kirkwood, Shia LaBeouf, Ed Begley Jr.",English,USA,5.1,894
+tt0118466,Smart Guy,series,TV-G,1997,30 min,"Comedy, Drama, Family","Tahj Mowry, John Marshall Jones, Jason Weaver, Omar Gooding",English,USA,7.4,"4,198"
+tt0094137,Three Men and a Baby,movie,PG,1987,102 min,"Comedy, Drama, Family","Tom Selleck, Steve Guttenberg, Ted Danson, Nancy Travis",English,USA,6.0,"45,155"
+tt1196141,Diary of a Wimpy Kid,movie,PG,2010,120 min,"Comedy, Drama, Family","Zachary Gordon, Robert Capron, Rachael Harris, Steve Zahn","English, German","USA, UK",6.2,"40,808"
+tt1462769,The Odd Life of Timothy Green,movie,PG,2012,105 min,"Comedy, Drama, Family, Fantasy","Jennifer Garner, Joel Edgerton, CJ Adams, Odeya Rush",English,USA,6.6,"43,976"
+tt0467421,Twitches,movie,TV-PG,2005,86 min,"Comedy, Drama, Family, Fantasy","Tia Mowry-Hardrict, Tamera Mowry-Housley, Kristen Wilson, Patrick Fabian",English,USA,5.7,"6,703"
+tt0111070,The Santa Clause,movie,PG,1994,97 min,"Comedy, Drama, Family, Fantasy","Tim Allen, Judge Reinhold, Wendy Crewson, Eric Lloyd","English, Spanish","USA, Canada",6.5,"91,389"
+tt0104940,The Muppet Christmas Carol,movie,G,1992,85 min,"Comedy, Drama, Family, Fantasy, Musical","Michael Caine, Dave Goelz, The Great Gonzo, Steve Whitmire",English,"USA, UK",7.7,"45,861"
+tt1648204,Lemonade Mouth,movie,TV-PG,2011,103 min,"Comedy, Drama, Family, Music, Musical","Bridgit Mendler, Adam Hicks, Hayley Kiyoko, Naomi Scott",English,USA,6.9,"13,515"
+tt0338852,The Cheetah Girls,movie,TV-G,2003,100 min,"Comedy, Drama, Family, Music, Musical","Raven-SymonÃ©, Adrienne Houghton, Kiely Williams, Sabrina Bryan","English, Spanish","Canada, USA",4.8,"6,690"
+tt0800318,The Cheetah Girls 2,movie,TV-G,2006,96 min,"Comedy, Drama, Family, Music, Musical","Raven-SymonÃ©, Adrienne Houghton, Sabrina Bryan, Kiely Williams","English, Spanish",USA,5.0,"5,512"
+tt1629440,Sharpay's Fabulous Adventure,movie,G,2011,90 min,"Comedy, Drama, Family, Music, Musical, Romance","Ashley Tisdale, Austin Butler, Cameron Goodman, Bradley Steven Perry",English,USA,4.7,"5,651"
+tt0475293,High School Musical,movie,TV-G,2006,98 min,"Comedy, Drama, Family, Music, Musical, Romance","Zac Efron, Vanessa Hudgens, Ashley Tisdale, Lucas Grabeel","English, Spanish",USA,5.4,"77,328"
+tt0810900,High School Musical 2,movie,TV-G,2007,104 min,"Comedy, Drama, Family, Music, Musical, Romance","Zac Efron, Vanessa Hudgens, Ashley Tisdale, Lucas Grabeel",English,USA,5.0,"52,782"
+tt0962726,High School Musical 3,movie,G,2008,112 min,"Comedy, Drama, Family, Music, Musical, Romance","Zac Efron, Vanessa Hudgens, Ashley Tisdale, Lucas Grabeel",English,USA,4.8,"55,628"
+tt1114677,Hannah Montana: The Movie,movie,G,2009,102 min,"Comedy, Drama, Family, Music, Romance","Miley Cyrus, Billy Ray Cyrus, Emily Osment, Jason Earles",English,USA,4.4,"38,414"
+tt1013542,The Cheetah Girls: One World,movie,TV-G,2008,90 min,"Comedy, Drama, Family, Musical","Adrienne Houghton, Sabrina Bryan, Kiely Williams, Roshan Seth",English,USA,4.7,"3,779"
+tt1604171,Prom,movie,PG,2011,104 min,"Comedy, Drama, Family, Romance","Aimee Teegarden, Thomas McDonell, DeVaughn Nixon, Danielle Campbell",English,USA,5.4,"14,569"
+tt1835977,Geek Charming,movie,TV-G,2011,94 min,"Comedy, Drama, Family, Romance","Sarah Hyland, Matt Prokop, Sasha Pieterse, Jordan Nichols",English,USA,6.4,"10,723"
+tt0098966,Three Men and a Little Lady,movie,PG,1990,104 min,"Comedy, Drama, Family, Romance","Tom Selleck, Steve Guttenberg, Ted Danson, Nancy Travis",English,USA,5.4,"21,881"
+tt0805559,Jump In!,movie,TV-G,2007,85 min,"Comedy, Drama, Family, Romance, Sport","Corbin Bleu, Keke Palmer, David Reivers, Shanica Knowles",English,USA,5.3,"6,574"
+tt0192618,Smart House,movie,TV-G,1999,82 min,"Comedy, Drama, Family, Sci-Fi","Kevin Kilner, Ryan Merriman, Katey Sagal, Jessica Steen",English,USA,6.3,"5,998"
+tt0942378,Johnny Kapahala: Back on Board,movie,Not Rated,2007,90 min,"Comedy, Drama, Family, Sport","Brandon Baker, Jake T. Austin, Cary-Hiroyuki Tagawa, Robyn Lively",English,USA,5.5,"1,922"
+tt0110006,Heavyweights,movie,PG,1995,100 min,"Comedy, Drama, Family, Sport","David Goldman, Joseph Wayne Miller, Cody Burger, Allen Covert",English,USA,6.6,"24,212"
+tt0447987,Go Figure,movie,TV-G,2005,88 min,"Comedy, Drama, Family, Sport","Jordan Danger, Whitney Sloan, Cristine Rose, Ryan Malgarini",English,USA,5.7,"3,121"
+tt0396652,Ice Princess,movie,G,2005,98 min,"Comedy, Drama, Family, Sport","Michelle Trachtenberg, Joan Cusack, Amy Stewart, Steve Ross",English,"USA, Canada",6.0,"23,891"
+tt1845866,Teen Spirit,movie,TV-PG,2011,82 min,"Comedy, Drama, Fantasy","Cassandra Scerbo, Carissa Capobianco, Gabriela Lopez, Katrina Rose Tandy",English,USA,5.5,"6,775"
+tt0116669,Jack,movie,PG-13,1996,113 min,"Comedy, Drama, Fantasy","Robin Williams, Diane Lane, Brian Kerwin, Jennifer Lopez","English, Spanish",USA,5.8,"54,474"
+tt4858674,Stargirl,movie,PG,2020,107 min,"Comedy, Drama, Romance","Grace VanderWaal, Graham Verchere, Giancarlo Esposito, Maximiliano HernÃ¡ndez",English,USA,6.2,"2,130"
+tt0147800,10 Things I Hate About You,movie,PG-13,1999,97 min,"Comedy, Drama, Romance","Heath Ledger, Julia Stiles, Joseph Gordon-Levitt, Larisa Oleynik","English, French",USA,7.3,"283,945"
+tt1661326,Shake It Up,series,TV-G,2010,30 min,"Comedy, Family","Bella Thorne, Zendaya, Davis Cleveland, Roshon Fegan",English,USA,4.8,"10,911"
+tt2273734,Crash & Bernstein,series,N/A,2012,30 min,"Comedy, Family","Cole Jensen, Tim Lagasse, Landry Bender, Oana Gregory",English,USA,4.8,599
+tt0426371,The Suite Life of Zack & Cody,series,TV-G,2005,30 min,"Comedy, Family","Cole Sprouse, Dylan Sprouse, Brenda Song, Ashley Tisdale",English,USA,6.5,"30,964"
+tt4651824,The Muppets.,series,TV-PG,2015,21 min,"Comedy, Family","Dave Goelz, Eric Jacobson, Bill Barretta, Peter Linz",English,USA,7.4,"5,614"
+tt0155110,Richie Rich's Christmas Wish,movie,G,1998,84 min,"Comedy, Family","David Gallagher, Eugene Levy, Keene Curtis, Jake Richardson",English,USA,4.1,"1,960"
+tt0069291,Snowball Express,movie,G,1973,93 min,"Comedy, Family","Dean Jones, Nancy Olson, Harry Morgan, Keenan Wynn",English,USA,6.5,"1,355"
+tt0061135,The Ugly Dachshund,movie,Not Rated,1966,93 min,"Comedy, Family","Dean Jones, Suzanne Pleshette, Charles Ruggles, Kelly Thordsen","English, Japanese",USA,6.7,"3,244"
+tt1865769,Jessie,series,TV-G,2011,30 min,"Comedy, Family","Debby Ryan, Peyton List, Cameron Boyce, Karan Brar",English,USA,5.9,"11,715"
+tt0256466,The Ultimate Christmas Present,movie,TV-G,2000,85 min,"Comedy, Family","Hallee Hirsh, Spencer Breslin, Hallie Todd, Brenda Song",English,"Canada, USA",5.9,"1,478"
+tt1222818,Hatching Pete,movie,TV-G,2009,90 min,"Comedy, Family","Jason Dolley, Mitchel Musso, Tiffany Thornton, Josie Loren",English,USA,5.4,"2,324"
+tt4488724,Stuck in the Middle,series,TV-G,2016,30 min,"Comedy, Family","Jenna Ortega, Isaak Presley, Ariana Greenblatt, Kayla Maisonet",English,USA,5.9,"1,291"
+tt0976238,Old Dogs,movie,PG,2009,88 min,"Comedy, Family","John Travolta, Robin Williams, Kelly Preston, Conner Rayburn","English, Ukrainian",USA,5.4,"35,534"
+tt0155753,I'll Be Home for Christmas,movie,PG,1998,86 min,"Comedy, Family","Jonathan Taylor Thomas, Jessica Biel, Adam LaVorgna, Gary Cole",English,"USA, Canada",5.5,"8,812"
+tt0282223,'Twas the Night,movie,TV-G,2001,84 min,"Comedy, Family","Josh Zuckerman, Brenda Grate, Bryan Cranston, Jefferson Mappin",English,USA,5.5,719
+tt0450455,Life Is Ruff,movie,TV-G,2005,84 min,"Comedy, Family","Kyle Massey, Kay Panabaker, Mitchel Musso, Carter Jenkins",English,USA,4.9,"1,205"
+tt0107413,Life with Mikey,movie,PG,1993,91 min,"Comedy, Family","Michael J. Fox, Christina Vidal, Nathan Lane, Cyndi Lauper",English,USA,5.6,"5,221"
+tt4800624,Bizaardvark,series,TV-G,2016,30 min,"Comedy, Family","Olivia Rodrigo, Madison Hu, DeVore Ledridge, Ethan Wacker",English,USA,3.5,"1,565"
+tt5195114,Andi Mack,series,TV-G,2017,25 min,"Comedy, Family","Peyton Elizabeth Lee, Joshua Rush, Sofia Wylie, Asher Angel",English,USA,7.3,"1,723"
+tt6311972,Raven's Home,series,TV-G,2017,22 min,"Comedy, Family","Raven-SymonÃ©, Issac Ryan Brown, Jason Maybaum, Navia Ziraili Robinson",English,USA,7.4,"2,046"
+tt0327698,The Even Stevens Movie,movie,TV-G,2003,93 min,"Comedy, Family","Shia LaBeouf, Christy Carlson Romano, Donna Pescow, Tom Virtue",English,USA,6.2,"6,241"
+tt0206511,Even Stevens,series,TV-G,2000,30 min,"Comedy, Family","Shia LaBeouf, Christy Carlson Romano, Nick Spano, Tom Virtue",English,USA,7.6,"13,163"
+tt0349205,Cheaper by the Dozen,movie,PG,2003,98 min,"Comedy, Family","Steve Martin, Bonnie Hunt, Piper Perabo, Tom Welling",English,USA,5.9,"90,580"
+tt0120645,Meet the Deedles,movie,PG,1998,93 min,"Comedy, Family","Steve Van Wormer, Paul Walker, A.J. Langer, John Ashton",English,USA,4.1,"2,567"
+tt9695266,Diary of a Future President,series,TV-PG,2020,30 min,"Comedy, Family","Tess Romero, Selenis Leyva, Charlie Bushnell, Michael Weaver",English,USA,5.5,333
+tt0119432,Jungle 2 Jungle,movie,PG,1997,105 min,"Comedy, Family","Tim Allen, Martin Short, JoBeth Williams, Lolita Davidovich",English,"USA, France",5.2,"22,111"
+tt0277514,Out of the Box,series,TV-Y,1998,24 min,"Comedy, Family","Tony James, Vivian Bayubay, Celine Ordioni",English,USA,7.5,814
+tt0080062,Unidentified Flying Oddball,movie,G,1979,93 min,"Comedy, Family, Adventure, Fantasy, Sci-Fi","Dennis Dugan, Jim Dale, Ron Moody, Kenneth More",English,USA,5.3,917
+tt0271271,Zenon: The Zequel,movie,TV-G,2001,100 min,"Comedy, Family, Adventure, Sci-Fi","Kirsten Storms, Shadia Simmons, Lauren Maltby, Susan Brady",English,"USA, New Zealand",5.9,"3,318"
+tt0034873,How to Fish,movie,N/A,1942,7 min,"Comedy, Family, Animation",George Johnson,English,USA,7.0,367
+tt0058056,Emil and the Detectives,movie,PG,1964,99 min,"Comedy, Family, Drama, Crime","Walter Slezak, Bryan Russell, Roger Mobley, Heinz Schubert",English,USA,6.2,390
+tt5097410,Noelle,movie,G,2019,100 min,"Comedy, Family, Fantasy","Anna Kendrick, Shirley MacLaine, Bill Hader, Kingsley Ben-Adir",English,USA,6.2,"9,752"
+tt0076054,Freaky Friday,movie,G,1977,95 min,"Comedy, Family, Fantasy","Barbara Harris, Jodie Foster, John Astin, Patsy Kelly",English,USA,6.3,"11,109"
+tt0107120,Hocus Pocus,movie,PG,1993,96 min,"Comedy, Family, Fantasy","Bette Midler, Sarah Jessica Parker, Kathy Najimy, Omri Katz","English, French",USA,6.9,"89,713"
+tt0219854,The Kid,movie,PG,2000,104 min,"Comedy, Family, Fantasy","Bruce Willis, Spencer Breslin, Emily Mortimer, Lily Tomlin",English,USA,6.1,"39,194"
+tt0200208,The Thirteenth Year,movie,TV-G,1999,95 min,"Comedy, Family, Fantasy","Chez Starbuck, Justin Jon Ross, Courtnee Draper, Brent Briscoe",English,USA,6.0,"4,525"
+tt0075200,The Shaggy D.A.,movie,G,1976,91 min,"Comedy, Family, Fantasy","Dean Jones, Tim Conway, Suzanne Pleshette, Keenan Wynn",English,USA,5.9,"2,468"
+tt0080788,The Ghosts of Buxley Hall,movie,N/A,1980,120 min,"Comedy, Family, Fantasy","Dick O'Neill, Victor French, Louise Latham, Rad Daly",English,USA,6.6,97
+tt0240462,Dr. Dolittle 2,movie,PG,2001,87 min,"Comedy, Family, Fantasy","Eddie Murphy, Kristen Wilson, Raven-SymonÃ©, Kyla Pratt",English,USA,4.7,"40,531"
+tt0118998,Doctor Dolittle,movie,PG-13,1998,85 min,"Comedy, Family, Fantasy","Eddie Murphy, Ossie Davis, Oliver Platt, Peter Boyle",English,USA,5.4,"89,150"
+tt0414078,Halloweentown High,movie,TV-G,2004,82 min,"Comedy, Family, Fantasy","Kimberly J. Brown, Debbie Reynolds, Judith Hoag, Joey Zimmerman",English,USA,6.2,"5,443"
+tt0062737,Blackbeard's Ghost,movie,APPROVED,1968,106 min,"Comedy, Family, Fantasy","Peter Ustinov, Dean Jones, Suzanne Pleshette, Elsa Lanchester",English,USA,6.9,"4,913"
+tt5653444,The Swap,movie,TV-G,2016,100 min,"Comedy, Family, Fantasy","Peyton List, Jacob Bertrand, Claire Rankin, Darrin Rose",English,USA,6.1,"1,522"
+tt0300865,That's So Raven,series,TV-G,2003,30 min,"Comedy, Family, Fantasy","Raven-SymonÃ©, Orlando Brown, Kyle Massey, Anneliese van der Pol",English,USA,6.5,"16,953"
+tt0816520,Return to Halloweentown,movie,TV-PG,2006,88 min,"Comedy, Family, Fantasy","Sara Paxton, Judith Hoag, Lucas Grabeel, Joey Zimmerman",English,USA,5.6,"5,338"
+tt0304669,The Santa Clause 2,movie,G,2002,104 min,"Comedy, Family, Fantasy","Tim Allen, Elizabeth Mitchell, David Krumholtz, Eric Lloyd",English,"USA, Canada",5.6,"47,866"
+tt3544734,Zapped,movie,TV-G,2014,102 min,"Comedy, Family, Fantasy","Zendaya, Chanelle Peloso, Spencer Boldman, Emilia McCarthy",English,"Canada, USA",5.1,"3,750"
+tt0329783,You Wish!,movie,TV-G,2003,84 min,"Comedy, Family, Fantasy, Drama","A.J. Trauth, Spencer Breslin, Lalaine, Tim Reid",English,"New Zealand, USA",6.1,"1,608"
+tt0313634,The Scream Team,movie,TV-PG,2002,100 min,"Comedy, Family, Fantasy, Horror","Mark Rendall, Kat Dennings, Robert Bockstael, Eric Idle",English,USA,6.7,774
+tt0250593,Mom's Got a Date with a Vampire,movie,TV-PG,2000,85 min,"Comedy, Family, Fantasy, Horror","Matt O'Leary, Laura Vandervoort, Myles Jeffrey, Caroline Rhea",English,"Canada, USA",5.9,"3,300"
+tt0338094,The Haunted Mansion,movie,PG,2003,88 min,"Comedy, Family, Fantasy, Horror, Mystery","Eddie Murphy, Terence Stamp, Nathaniel Parker, Marsha Thomason",English,USA,5.0,"40,276"
+tt0322330,Freaky Friday,movie,PG,2003,97 min,"Comedy, Family, Fantasy, Music, Romance","Jamie Lee Curtis, Lindsay Lohan, Mark Harmon, Harold Gould","English, Mandarin",USA,6.1,"120,172"
+tt3440298,Descendants,movie,TV-G,2015,112 min,"Comedy, Family, Fantasy, Musical","Dove Cameron, Cameron Boyce, Booboo Stewart, Sofia Carson",English,USA,6.4,"14,470"
+tt0058331,Mary Poppins,movie,G,1965,139 min,"Comedy, Family, Fantasy, Musical","Julie Andrews, Dick Van Dyke, David Tomlinson, Glynis Johns",English,USA,7.8,"151,417"
+tt0116756,Kazaam,movie,PG,1996,93 min,"Comedy, Family, Fantasy, Musical","Shaquille O'Neal, Francis Capra, Ally Walker, James Acheson",English,USA,3.0,"22,405"
+tt0054649,Babes in Toyland,movie,APPROVED,1961,106 min,"Comedy, Family, Fantasy, Musical, Romance","Ray Bolger, Tommy Sands, Annette Funicello, Ed Wynn",English,USA,6.3,"3,228"
+tt0153992,You Lucky Dog,movie,TV-G,1998,89 min,"Comedy, Family, Fantasy, Mystery","Kirk Cameron, Chelsea Noble, John de Lancie, Christine Healy",English,USA,4.7,526
+tt0960731,Bedtime Stories,movie,PG,2008,99 min,"Comedy, Family, Fantasy, Romance","Adam Sandler, Keri Russell, Guy Pearce, Russell Brand",English,USA,6.0,"85,524"
+tt1068284,Snowglobe,movie,TV-PG,2007,86 min,"Comedy, Family, Fantasy, Romance","Christina Milian, Erin Karpluk, Hilda Doherty, Jason Schombing",English,USA,6.0,"2,043"
+tt0071607,Herbie Rides Again,movie,G,1974,88 min,"Comedy, Family, Fantasy, Romance","Helen Hayes, Ken Berry, Stefanie Powers, John McIntire",English,USA,5.7,"7,035"
+tt0211174,"Up, Up, and Away!",movie,TV-G,2000,90 min,"Comedy, Family, Fantasy, Sci-Fi","Robert Townsend, Michael J. Pagan, Alex Datcher, Sherman Hemsley",English,"Canada, USA",5.6,"1,736"
+tt0107985,Rookie of the Year,movie,PG,1993,103 min,"Comedy, Family, Fantasy, Sport","Thomas Ian Nicholas, Gary Busey, Albert Hall, Amy Morton",English,USA,6.0,"23,711"
+tt0410696,Stuck in the Suburbs,movie,TV-G,2004,76 min,"Comedy, Family, Music","Danielle Panabaker, Brenda Song, Amanda Shaw, CiCi Hedgpeth",English,USA,5.6,"3,395"
+tt5189554,Soy Luna,series,N/A,2016,45 min,"Comedy, Family, Music","Karol Sevilla, Ruggero Pasquarelli, Valentina Zenere, Michael Ronda","Spanish, German","Argentina, Mexico",6.8,833
+tt1044418,Jonas,series,N/A,2009,25 min,"Comedy, Family, Music","Kevin Jonas, Chelsea Kane, Nicole Gale Anderson, Joe Jonas",English,USA,4.6,"5,555"
+tt0493093,Hannah Montana,series,TV-G,2006,23 min,"Comedy, Family, Music","Miley Cyrus, Emily Osment, Jason Earles, Billy Ray Cyrus",English,USA,5.0,"35,066"
+tt1830491,Austin & Ally,series,TV-G,2011,30 min,"Comedy, Family, Music","Ross Lynch, Laura Marano, Raini Rodriguez, Calum Worthy",English,USA,5.9,"8,666"
+tt2490352,The Mistle-Tones,movie,TV-PG,2012,90 min,"Comedy, Family, Music","Tia Mowry-Hardrict, Jonathan Patrick Moore, Andy Gala, Megan Kathleen Duffy",English,USA,6.7,"1,843"
+tt0055740,Almost Angels,movie,Not Rated,1962,93 min,"Comedy, Family, Music","Vincent Winter, Sean Scully, Peter Weck, Hans Holt",English,USA,7.1,309
+tt0108147,Sister Act 2: Back in the Habit,movie,PG,1993,107 min,"Comedy, Family, Music","Whoopi Goldberg, Kathy Najimy, Barnard Hughes, Mary Wickes",English,USA,5.6,"47,046"
+tt0276033,The Country Bears,movie,G,2002,88 min,"Comedy, Family, Music, Musical","Haley Joel Osment, Diedrich Bader, Candy Ford, James Gammon",English,USA,4.1,"4,769"
+tt1055366,Camp Rock,movie,TV-G,2008,94 min,"Comedy, Family, Music, Musical, Romance","Demi Lovato, Joe Jonas, Meaghan Martin, Maria Canals-Barrera","English, Portuguese",USA,5.2,"28,782"
+tt1252380,Camp Rock 2: The Final Jam,movie,TV-G,2010,97 min,"Comedy, Family, Music, Musical, Romance","Demi Lovato, Joe Jonas, Nick Jonas, Kevin Jonas",English,USA,5.2,"15,387"
+tt0361467,Confessions of a Teenage Drama Queen,movie,PG,2004,89 min,"Comedy, Family, Music, Romance","Lindsay Lohan, Adam Garcia, Glenne Headly, Alison Pill",English,"Germany, USA",4.6,"26,686"
+tt1579247,StarStruck,movie,TV-G,2010,90 min,"Comedy, Family, Music, Romance","Sterling Knight, Danielle Campbell, Maggie Castle, Brandon Mychal Smith",English,USA,6.1,"12,305"
+tt0098740,America's Funniest Home Videos,series,TV-PG,1989,30 min,"Comedy, Family, Reality-TV","Jess Harnell, Tom Bergeron, Bob Saget, Ernie Anderson",English,USA,6.2,"4,652"
+tt11199558,Pixar in Real Life,series,TV-G,2019,N/A,"Comedy, Family, Reality-TV",Zihan Zhao,English,USA,6.7,193
+tt0489007,Cow Belles,movie,TV-G,2006,90 min,"Comedy, Family, Romance","Aly Michalka, AJ Michalka, Jack Coleman, Sheila McCarthy",English,USA,5.2,"5,625"
+tt0368933,The Princess Diaries 2: Royal Engagement,movie,G,2004,113 min,"Comedy, Family, Romance","Anne Hathaway, Julie Andrews, Hector Elizondo, John Rhys-Davies","English, Greek, French, Spanish",USA,5.8,"70,904"
+tt1252374,Sonny with a Chance,series,TV-G,2009,23 min,"Comedy, Family, Romance","Demi Lovato, Tiffany Thornton, Sterling Knight, Brandon Mychal Smith",English,USA,6.1,"10,074"
+tt0055277,The Parent Trap,movie,PASSED,1961,129 min,"Comedy, Family, Romance","Hayley Mills, Maureen O'Hara, Brian Keith, Charles Ruggles",English,USA,7.1,"18,041"
+tt0247638,The Princess Diaries,movie,G,2001,111 min,"Comedy, Family, Romance","Julie Andrews, Anne Hathaway, Hector Elizondo, Heather Matarazzo","English, Dutch, Italian","USA, UK",6.3,"123,037"
+tt0193187,Genius,movie,TV-G,1999,82 min,"Comedy, Family, Romance, Sci-Fi","Trevor Morgan, Emmy Rossum, Charles Fleischer, Yannick Bisson",English,USA,6.3,"1,570"
+tt0246834,The Other Me,movie,TV-G,2000,90 min,"Comedy, Family, Sci-Fi","Andrew Lawrence, Mark L. Taylor, Lori Hallier, Alison Pill",English,USA,6.1,"1,741"
+tt3098874,How to Build a Better Boy,movie,TV-G,2014,90 min,"Comedy, Family, Sci-Fi","China Anne McClain, Kelli Berglund, Marshall Williams, Matt Shively","English, French",USA,5.5,"2,484"
+tt0120764,My Favorite Martian,movie,PG,1999,94 min,"Comedy, Family, Sci-Fi","Christopher Lloyd, Jeff Daniels, Elizabeth Hurley, Daryl Hannah",English,USA,5.1,"12,448"
+tt0250754,Stepsister from Planet Weird,movie,TV-G,2000,85 min,"Comedy, Family, Sci-Fi","Courtnee Draper, Tamara Hope, Lance Guest, Khrystyne Haje",English,USA,6.0,"1,317"
+tt0066728,The Million Dollar Duck,movie,G,1971,89 min,"Comedy, Family, Sci-Fi","Dean Jones, Sandy Duncan, Joe Flynn, Tony Roberts",English,USA,5.9,"1,886"
+tt0077305,The Cat from Outer Space,movie,G,1978,104 min,"Comedy, Family, Sci-Fi","Ken Berry, Sandy Duncan, Harry Morgan, Roddy McDowall",English,USA,6.1,"4,162"
+tt0065566,The Computer Wore Tennis Shoes,movie,G,1969,91 min,"Comedy, Family, Sci-Fi","Kurt Russell, Cesar Romero, Joe Flynn, William Schallert",English,USA,6.0,"4,208"
+tt0073760,The Strongest Man in the World,movie,G,1975,92 min,"Comedy, Family, Sci-Fi","Kurt Russell, Joe Flynn, Eve Arden, Cesar Romero",English,USA,6.1,"2,531"
+tt4507442,Best Friends Whenever,series,TV-G,2015,21 min,"Comedy, Family, Sci-Fi","Landry Bender, Lauren Taylor, Gus Kamp, Ricky Garcia",English,USA,5.5,"1,475"
+tt0186910,Can of Worms,movie,TV-PG,1999,90 min,"Comedy, Family, Sci-Fi","Michael Shulman, Erika Christensen, Adam Wylie, Andrew Ducote",English,"USA, Canada",5.0,756
+tt0119137,Flubber,movie,PG,1997,93 min,"Comedy, Family, Sci-Fi","Robin Williams, Marcia Gay Harden, Christopher McDonald, Ted Levine",English,USA,5.3,"81,512"
+tt0274728,The Poof Point,movie,TV-G,2001,90 min,"Comedy, Family, Sci-Fi","Tahj Mowry, Dawnn Lewis, Mark Curry, Raquel Lee",English,USA,4.7,466
+tt0054594,The Absent Minded Professor,movie,APPROVED,1961,92 min,"Comedy, Family, Sci-Fi, Sport","Fred MacMurray, Nancy Olson, Keenan Wynn, Tommy Kirk",English,USA,6.8,"6,856"
+tt0064603,The Love Bug,movie,G,1969,108 min,"Comedy, Family, Sport","Dean Jones, Michele Lee, David Tomlinson, Buddy Hackett","English, Cantonese, Spanish",USA,6.5,"13,617"
+tt0492956,The Game Plan,movie,PG,2007,110 min,"Comedy, Family, Sport","Dwayne Johnson, Madison Pettis, Kyra Sedgwick, Roselyn Sanchez",English,USA,6.1,"56,291"
+tt0074599,Gus,movie,G,1976,96 min,"Comedy, Family, Sport","Edward Asner, Don Knotts, Gary Grimes, Tim Conway",English,USA,5.9,"1,481"
+tt0365149,Eddie's Million Dollar Cook-Off,movie,TV-G,2003,110 min,"Comedy, Family, Sport","Taylor Ball, Orlando Brown, Reiley McClendon, Mark L. Taylor",English,USA,6.0,"2,304"
+tt0072653,The Apple Dumpling Gang,movie,G,1975,100 min,"Comedy, Family, Western","Bill Bixby, Susan Clark, Don Knotts, Tim Conway",English,USA,6.5,"4,710"
+tt0071288,The Castaway Cowboy,movie,G,1974,91 min,"Comedy, Family, Western","James Garner, Vera Miles, Robert Culp, Eric Shea",English,USA,5.9,421
+tt0078790,The Apple Dumpling Gang Rides Again,movie,G,1979,88 min,"Comedy, Family, Western","Tim Conway, Don Knotts, Tim Matheson, Kenneth Mars",English,USA,6.1,"2,270"
+tt3920782,Life-Size 2,movie,TV-14,2018,81 min,"Comedy, Fantasy","Tyra Banks, Francia Raisa, Gavin Stenhouse, Hank Chen",English,USA,4.8,727
+tt7631348,Freaky Friday,movie,TV-G,2018,90 min,"Comedy, Fantasy, Musical","Cozi Zuehlsdorff, Heidi Blickenstaff, Jason Maybaum, Alex DÃ©sert",English,USA,3.7,916
+tt1846442,12 Dates of Christmas,movie,PG,2011,90 min,"Comedy, Fantasy, Romance","Laura Miyata, Vijay Mehta, Amy Smart, Audrey Dwyer",English,USA,6.3,"4,933"
+tt0088161,Splash,movie,PG,1984,111 min,"Comedy, Fantasy, Romance","Tom Hanks, Daryl Hannah, Eugene Levy, John Candy","English, Swedish",USA,6.2,"65,908"
+tt8510382,High School Musical: The Musical - The Series,series,TV-PG,2019,31 min,"Comedy, Musical","Olivia Rodrigo, Joshua Bassett, Matt Cornett, Larry Saperstein",English,USA,7.3,"2,038"
+tt0426148,Once Upon a Mattress,movie,PG,2005,90 min,"Comedy, Musical, Romance","Carol Burnett, Tracey Ullman, Denis O'Hare, Zooey Deschanel",English,USA,6.4,"1,025"
+tt10276578,Lost Treasures of the Maya,series,N/A,2018,N/A,Documentary,Albert Yu-Min Lin,English,"USA, Guatemala",6.4,56
+tt9154632,The Flood,movie,N/A,2018,N/A,Documentary,Angela Bassett,English,USA,8.2,24
+tt9331982,The Imagineering Story,series,N/A,2019,60 min,Documentary,"Angela Bassett, Tom Morris, Kevin Rafferty, Tom Fitzgerald",N/A,USA,9.1,"1,194"
+tt8390274,Hostile Planet,series,N/A,2019,47 min,Documentary,Bear Grylls,English,USA,8.2,382
+tt12100080,Diving with Dolphins,movie,N/A,2020,79 min,Documentary,"Celine Cousteau, Daniel Rasmussen",English,USA,7.4,18
+tt7823038,Drain Alcatraz,movie,N/A,2017,45 min,Documentary,"Clarence Anglin, John William Anglin, Bill Baker, Patrick Barnard",English,USA,5.4,13
+tt1159961,Waking Sleeping Beauty,movie,PG,2010,86 min,Documentary,"Don Hahn, Ron Clements, Peter Schneider, Roy Edward Disney",English,USA,7.6,"2,253"
+tt0113104,Frank and Ollie,movie,PG,1995,89 min,Documentary,"Frank Thomas, Ollie Johnston, Sylvia Roemer, John Canemaker",English,USA,7.8,524
+tt10290670,The Lost Tomb of Alexander the Great,movie,N/A,2019,N/A,Documentary,"Fredrik T. Hiebert, Calliope Limneos-Papakosta",English,UK,7.2,32
+tt0381006,America's Heart & Soul,movie,PG,2004,84 min,Documentary,"George Woodard, Charles Jimmie Sr., The Vasquez Brothers, Frank Pino",English,USA,4.8,557
+tt5538644,Primal Survivor,series,N/A,2016,N/A,Documentary,Hazen Audel,English,USA,8.5,163
+tt9165688,Mission to the Sun,movie,N/A,2018,60 min,Documentary,"Henry Goodman, Jack Baker, Jeffrey Johnson",English,USA,7.1,51
+tt7153434,Science Fair,movie,PG,2018,90 min,Documentary,"Jack Andraka, Ramy Khodeir, Serena McCalla",English,USA,7.7,331
+tt1570382,Bizarre Dinosaurs,movie,N/A,2009,N/A,Documentary,"Jack Horner, Paul Sereno, Gregory Erickson, Lawrence Witmer",English,USA,6.6,47
+tt10583412,Out There with Jack Randall,series,N/A,2019,N/A,Documentary,"Jack Randall, Jack Randall",N/A,N/A,6.6,5
+tt7620568,Titanic: 20 Years Later with James Cameron,movie,N/A,2017,46 min,Documentary,"Jacqueline Astor Drexel, Robert Ballard, Harold Bride, Muffet Laurie Brown",English,USA,7.2,273
+tt2278028,Episode #2.7,episode,N/A,2013,N/A,Documentary,"Jan Pol, Brenda Grettenberger, Charles Pol, Diane Pol",N/A,N/A,N/A,N/A
+tt7008868,Earth Live,movie,N/A,2017,N/A,Documentary,"Jane Lynch, Phil Keoghan",English,USA,5.6,24
+tt6091694,Origins: The Journey of Humankind,series,N/A,2017,60 min,Documentary,"Jason Silva, Mark Monroe",English,USA,6.9,344
+tt6279452,Expedition Mars,movie,N/A,2016,88 min,Documentary,"John Callas, Jake Matijevic, Steve Squyres",English,USA,8.1,18
+tt4629266,Born in China,movie,G,2017,79 min,Documentary,"John Krasinski, Claire Keim, Xun Zhou","English, Chinese","UK, China, USA",7.2,"3,316"
+tt10163846,Marvel's Hero Project,series,TV-G,2019,N/A,Documentary,"Jordan Reeves, Daniella Benitez, Elijah Lee, Camron Reeves",English,USA,6.2,97
+tt2543062,Winged Seduction: Birds of Paradise,movie,N/A,2012,N/A,Documentary,Josh Goodman,English,USA,6.5,10
+tt11448424,High School Musical: The Musical: The Series: The Special,movie,TV-G,2019,23 min,Documentary,"Joshua Bassett, Corbin Bleu, Matt Cornett, Tim Federle",English,USA,7.8,14
+tt9822474,Into the Canyon,movie,N/A,2019,84 min,Documentary,"Kevin Fedarko, Peter McBride",English,USA,7.7,94
+tt5929776,Before the Flood,movie,PG,2016,96 min,Documentary,"Leonardo DiCaprio, Ki-moon Ban, Alejandro G. IÃ±Ã¡rritu, Mike Brune",English,USA,8.3,"25,171"
+tt8174114,Tutankhamen's Treasures,series,N/A,2018,N/A,Documentary,Mark Bazeley,English,UK,7.4,31
+tt4266692,Drain the Bermuda Triangle,movie,N/A,2014,44 min,Documentary,"Marvin W. Barrash, Eric Berkenpas, Simon Boxall, Thomas M. Iliffe",English,USA,6.0,47
+tt0365109,Deep Blue,movie,G,2004,83 min,Documentary,"Michael Gambon, David Attenborough, Pierce Brosnan, Frank Glaubrecht",English,"UK, Germany",7.4,"2,791"
+tt8780664,Secrets of the King Cobra,movie,N/A,2010,N/A,Documentary,N/A,English,India,7.2,6
+tt10855726,Pick of the Litter,series,N/A,2019,N/A,Documentary,N/A,English,USA,N/A,N/A
+tt11998854,Insider,series,N/A,2020,N/A,Documentary,N/A,English,USA,7.6,5
+tt2181679,Unlikely Animal Friends,series,N/A,2012,N/A,Documentary,N/A,English,USA,7.7,72
+tt4199038,Supercar Superbuild,series,N/A,2014,N/A,Documentary,N/A,English,USA,7.0,40
+tt4622802,America's National Parks,series,TV-G,2015,N/A,Documentary,N/A,English,USA,7.9,73
+tt5648768,How Dogs Got Their Shapes,movie,N/A,2016,N/A,Documentary,N/A,English,USA,6.8,34
+tt6390686,Sea of Hope: America's Underwater Treasures,movie,N/A,2017,48 min,Documentary,N/A,English,USA,N/A,N/A
+tt7293698,Breaking2,movie,N/A,2017,55 min,Documentary,N/A,English,USA,7.5,42
+tt1455430,Easter Island Underworld,episode,N/A,2009,120 min,Documentary,Peter Coyote,N/A,N/A,7.4,12
+tt9269852,MARS: Inside SpaceX,movie,N/A,2018,46 min,Documentary,Raz Friman,English,USA,7.4,534
+tt7974952,Man Among Cheetahs,movie,N/A,2017,N/A,Documentary,Robert Poole,English,USA,6.5,15
+tt10704300,Kingdom of the White Wolf,series,N/A,2019,N/A,Documentary,Ronan Donovan,English,USA,8.2,56
+tt3738576,Drain the Great Lakes,movie,TV-G,2011,47 min,Documentary,"Russell Boulter, Steve Blasco, Tom Farnquist, Russ Green",English,"UK, Canada, USA",7.5,10
+tt7848136,The Secret of Christ's Tomb,movie,N/A,2017,N/A,Documentary,Stefan Ashton Frank,English,USA,5.1,7
+tt10854760,One Day at Disney,series,N/A,2019,5 min,Documentary,Sterling K. Brown,English,USA,7.3,155
+tt7573844,Into the Okavango,movie,N/A,2018,88 min,Documentary,Steve Boyes,English,"USA, Angola, Botswana, Namibia, South Africa",7.6,183
+tt1769803,Great Migrations,series,TV-PG,2010,45 min,Documentary,"Tarkan, Alec Baldwin, Stephen Fry",English,USA,8.1,694
+tt3660770,Monkey Kingdom,movie,G,2015,81 min,Documentary,Tina Fey,English,USA,7.3,"3,529"
+tt1403075,Kingdom of the Blue Whale,movie,N/A,2009,N/A,Documentary,"Tom Selleck, Scott Baker, John Calambokidis, Darlene Kenton",English,USA,7.3,77
+tt7651892,One Strange Rock,series,TV-PG,2018,47 min,Documentary,"Will Smith, Chris Hadfield, Jerry Linenger, Mae C. Jemison","English, Spanish, Indonesian, Chinese, Arabic, Russian, Hindi, Tibetan, Portuguese, French, Thai, Norwegian, Italian, Japanese, Mongolian, Kazakh",USA,8.8,"5,420"
+tt0902967,The Crimson Wing: Mystery of the Flamingos,movie,G,2009,78 min,Documentary,"Zabou Breitman, Mariella Frostrup, Karoline Herfurth",English,"USA, UK",7.3,"1,024"
+tt1223236,African Cats,movie,G,2011,89 min,"Documentary, Adventure","Samuel L. Jackson, Patrick Stewart",English,USA,7.6,"6,043"
+tt12036052,Elephant,movie,N/A,2020,N/A,"Documentary, Adventure, Biography, Family",Meghan Markle,English,N/A,4.7,61
+tt12100044,In the Footsteps of Elephant,movie,G,2020,85 min,"Documentary, Adventure, Family","Jeremy Sisto, Mike Chase, Mike Holding, Roger Horrocks",English,USA,8.1,17
+tt6467274,Atlantis Rising,movie,N/A,2017,93 min,"Documentary, Adventure, Mystery","James Cameron, Georgeos DÃ­az-Montexano, Peter Ellul Vincenti, Richard Freund",English,Canada,6.8,178
+tt2964642,Life Below Zero,series,TV-PG,2013,44 min,"Documentary, Adventure, Reality-TV","James Franzo, Sue Aikens, Agnes Hailstone, Chip Hailstone",English,USA,8.0,"1,429"
+tt7775622,Free Solo,movie,PG-13,2018,100 min,"Documentary, Adventure, Sport","Alex Honnold, Tommy Caldwell, Jimmy Chin, Cheyne Lempe",English,USA,8.2,"46,710"
+tt7207238,Jane,movie,PG,2017,90 min,"Documentary, Biography","Jane Goodall, Hugo Van Lawick, Hugo Eric Louis van Lawick",English,USA,7.8,"3,897"
+tt7188868,Diana: In Her Own Words,movie,N/A,2017,112 min,"Documentary, Biography",Princess Diana,English,UK,7.9,"1,291"
+tt10196390,The World According to Jeff Goldblum,series,TV-PG,2019,N/A,"Documentary, Comedy",Jeff Goldblum,N/A,N/A,7.9,"1,121"
+tt2078690,Brain Games,series,TV-G,2011,30 min,"Documentary, Comedy, Drama, Game-Show, Reality-TV",Jason Silva,English,USA,8.3,"2,812"
+tt6945708,Year Million,series,N/A,2017,N/A,"Documentary, Drama, Sci-Fi","Laurence Fishburne, MiklÃ³s BÃ¡nyai, Joe Corrigall, Siobhan Dillon",English,USA,7.5,324
+tt0417415,Aliens of the Deep,movie,G,2005,100 min,"Documentary, Family","Anatoly M. Sagalevitch, Genya Chernaiev, Victor Nischeta, Pamela Conrad",English,USA,6.4,"2,586"
+tt12080904,Penguins: Life on the Edge,movie,G,2020,78 min,"Documentary, Family","Blair Underwood, Matthew Aeberhard, Julie Moniere, Daniel Rasmussen",English,USA,6.7,6
+tt8080302,Penguins,movie,G,2019,76 min,"Documentary, Family",Ed Helms,English,USA,6.9,"1,093"
+tt2458776,Bears,movie,G,2014,78 min,"Documentary, Family",John C. Reilly,English,USA,7.4,"6,262"
+tt10055028,Dolphin Reef,movie,G,2020,77 min,"Documentary, Family",Natalie Portman,English,USA,7.6,566
+tt1222815,Chimpanzee,movie,G,2012,78 min,"Documentary, Family",Tim Allen,English,"Tanzania, USA",7.2,"5,708"
+tt0047642,The Vanishing Prairie,movie,APPROVED,1955,71 min,"Documentary, Family",Winston Hibler,English,USA,7.7,341
+tt0049733,Secrets of Life,movie,PASSED,1956,70 min,"Documentary, Family",Winston Hibler,English,USA,7.8,126
+tt0053977,Jungle Cat,movie,APPROVED,1960,69 min,"Documentary, Family",Winston Hibler,English,USA,7.4,205
+tt1222816,Disneynature: Wings of Life,movie,G,2013,81 min,"Documentary, Family, News",Meryl Streep,English,"USA, Panama, Mexico",7.4,442
+tt4128102,Marvel 75 Years: From Pulp to Pop!,movie,N/A,2014,42 min,"Documentary, History","Axel Alonso, Hayley Atwell, Gerry Conway, Louis D'Esposito",English,USA,7.4,594
+tt3591568,Marvel Studios: Assembling a Universe,movie,TV-PG,2014,43 min,"Documentary, History","Axel Alonso, Victoria Alonso, Hayley Atwell, Jeffrey Bell",English,USA,7.6,936
+tt1245537,Stonehenge: Decoded,movie,PG,2008,92 min,"Documentary, History","Donald Sutherland, Stoyan Aleksiev, Bogomil Atanasov, Fahradin Fahradinov",English,UK,6.5,133
+tt10366494,Lost Cities with Albert Lin,series,N/A,2019,N/A,"Documentary, History","Duncan Lees, Joseph Angelo Steel",English,USA,8.7,63
+tt10538348,Viking Warrior Women,movie,N/A,2019,51 min,"Documentary, History","Moa Enqvist Stefansdotter, Stina EdstrÃ¶m, Dennis Bengtsson, Bjarne Dahl","English, Swedish, German",UK,7.1,14
+tt8676618,Drain the Oceans,series,TV-PG,2018,47 min,"Documentary, History, Mystery","Craig Sechler, Russell Boulter, James Delgado, Eric Grove",English,"UK, Australia",7.6,220
+tt0416716,Empire of Dreams: The Story of the 'Star Wars' Trilogy,movie,N/A,2004,151 min,"Documentary, History, Sci-Fi","Robert Clotworthy, Walter Cronkite, George Lucas, Steven Spielberg",English,USA,8.3,"3,772"
+tt1229827,Jonas Brothers: The 3D Concert Experience,movie,G,2009,76 min,"Documentary, Music","Kevin Jonas, Joe Jonas, Nick Jonas, John Taylor",English,USA,1.5,"17,198"
+tt1127884,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,movie,G,2008,74 min,"Documentary, Music","Miley Cyrus, The Jonas Brothers, Kenny Ortega, Billy Ray Cyrus",English,USA,2.3,"8,392"
+tt6001956,Blue Ribbon Kids,episode,N/A,2016,44 min,"Documentary, Reality-TV","Ciara Allen, Gary Amos, Linda Amos, Trent Amos",N/A,N/A,N/A,N/A
+tt4664808,Incredible! The Story of Dr. Pol,episode,N/A,2015,44 min,"Documentary, Reality-TV",N/A,N/A,N/A,N/A,N/A
+tt0436595,Roving Mars,movie,G,2006,40 min,"Documentary, Short","Paul Newman, Steve Squyres, Rob Manning, Charles Elachi",English,USA,7.2,968
+tt0353965,Sacred Planet,movie,G,2004,40 min,"Documentary, Short","Robert Redford, Arapata McKay, Tsaan Ciqae, Mae Tui",English,"Canada, Malaysia, USA",6.0,259
+tt0219222,The Olympic Elk,movie,APPROVED,1952,27 min,"Documentary, Short",Winston Hibler,English,USA,7.2,40
+tt0043839,Nature's Half Acre,movie,PASSED,1951,33 min,"Documentary, Short, Family",Winston Hibler,English,USA,7.7,86
+tt0045314,Water Birds,movie,APPROVED,1952,30 min,"Documentary, Short, Family",Winston Hibler,English,USA,6.9,111
+tt0280050,Prowlers of the Everglades,movie,APPROVED,1953,32 min,"Documentary, Short, Family",Winston Hibler,English,USA,8.1,42
+tt3067436,Miracle Landing on the Hudson,movie,N/A,2014,90 min,Drama,"Kate Steavenson-Payne, Sara Stewart, Matthew Douglas, Todd Boyce",English,USA,6.7,67
+tt0138068,Ruby Bridges,movie,N/A,1998,96 min,Drama,"Penelope Ann Miller, Kevin Pollak, Michael Beach, Jean Louisa Kelly",English,USA,7.2,607
+tt0157996,Miracle at Midnight,movie,N/A,1998,90 min,Drama,"Sam Waterston, Mia Farrow, Justin Whalin, Patrick Malahide",English,USA,7.0,293
+tt0296251,Tru Confessions,movie,TV-G,2002,112 min,"Drama, Comedy, Family","Clara Bryant, Shia LaBeouf, Mare Winningham, William Francis McGuire",English,"USA, Canada",7.5,"2,866"
+tt0059796,Those Calloways,movie,APPROVED,1965,131 min,"Drama, Family","Brian Keith, Vera Miles, Brandon De Wilde, Walter Brennan",English,USA,6.8,423
+tt0496386,The Secret of the Magic Gourd,movie,G,2007,84 min,"Drama, Family","Corbin Bleu, Peisi Chen, Aaron Michael Drozin, Drake Johnston","Mandarin, English","China, Hong Kong, USA",5.3,490
+tt0054944,Greyfriars Bobby: The True Story of a Dog,movie,APPROVED,1961,87 min,"Drama, Family","Donald Crisp, Laurence Naismith, Alex Mackenzie, Duncan Macrae",English,USA,7.3,"1,203"
+tt0068276,The Biscuit Eater,movie,G,1972,90 min,"Drama, Family","Earl Holliman, Pat Crowley, Lew Ayres, Godfrey Cambridge",English,USA,5.7,281
+tt0090840,The Christmas Star,movie,TV-G,1986,94 min,"Drama, Family","Edward Asner, Rene Auberjonois, Jim Metzler, Susan Tyrrell",English,"Canada, USA",6.5,345
+tt0397113,Tiger Cruise,movie,TV-PG,2004,88 min,"Drama, Family","Hayden Panettiere, Bill Pullman, Troy Evans, Bianca Collins",English,USA,6.2,"1,166"
+tt0219813,Horse Sense,movie,TV-G,1999,92 min,"Drama, Family","Joey Lawrence, Andrew Lawrence, Susan Walters, M.C. Gainey",English,USA,6.2,"1,485"
+tt0071199,The Bears and I,movie,G,1974,89 min,"Drama, Family","Patrick Wayne, Chief Dan George, Andrew Duggan, Michael Ansara",English,USA,6.2,253
+tt1614950,Avalon High,movie,TV-G,2010,90 min,"Drama, Family, Fantasy","Britt Robertson, Samuel Levi, Gregg Sulkin, Joey Pollari",English,USA,5.7,"5,133"
+tt0301935,Three Days,movie,TV-G,2001,100 min,"Drama, Family, Fantasy","Kristin Davis, Reed Diamond, Danielle Brett, Tim Meadows",English,USA,7.2,867
+tt1017465,Twitches Too,movie,TV-PG,2007,83 min,"Drama, Family, Fantasy","Tia Mowry-Hardrict, Tamera Mowry-Housley, Kristen Wilson, Patrick Fabian",English,USA,5.8,"3,961"
+tt0426568,Now You See It...,movie,TV-G,2005,83 min,"Drama, Family, Fantasy, Mystery","Aly Michalka, Johnny Pacar, Frank Langella, Chris Olivero",English,USA,6.3,"2,047"
+tt0283084,Tuck Everlasting,movie,PG,2002,90 min,"Drama, Family, Fantasy, Romance","Alexis Bledel, William Hurt, Sissy Spacek, Jonathan Jackson","English, French",USA,6.6,"20,533"
+tt0104990,Newsies,movie,PG,1992,121 min,"Drama, Family, History, Musical","Christian Bale, David Moscow, Luke Edwards, Max Casella",English,USA,7.0,"18,094"
+tt2165933,Let It Shine,movie,TV-G,2012,104 min,"Drama, Family, Music","Tyler James Williams, Coco Jones, Trevor Jackson, Brandon Mychal Smith",English,USA,6.4,"2,731"
+tt2171665,Violetta,series,TV-G,2012,45 min,"Drama, Family, Music, Romance","Diego Ramos, Martina Stoessel, Jorge Blanco, Mercedes Lambre",Spanish,Argentina,5.2,"1,892"
+tt0244764,Rip Girls,movie,TV-G,2000,87 min,"Drama, Family, Romance","Camilla Belle, Dwier Brown, Stacie Hess, Brian Stark",English,"Australia, USA",6.2,"1,135"
+tt0282123,A Ring of Endless Light,movie,TV-G,2002,88 min,"Drama, Family, Romance","Mischa Barton, Ryan Merriman, Jared Padalecki, Scarlett Pomers",English,USA,6.1,"1,042"
+tt0382142,Full-Court Miracle,movie,TV-G,2003,90 min,"Drama, Family, Sport","Alex D. Linz, Richard T. Jones, R.H. Thomson, Sean Marquette",English,USA,5.7,816
+tt0399104,Going to the Mat,movie,G,2004,120 min,"Drama, Family, Sport","Andrew Lawrence, Khleo Thomas, Alessandra Torresani, Wayne Brady",English,USA,6.8,"1,212"
+tt0206064,Johnny Tsunami,movie,TV-G,1999,88 min,"Drama, Family, Sport","Cary-Hiroyuki Tagawa, Brandon Baker, Mary Page Keller, Yuji Okumoto",English,USA,6.3,"4,615"
+tt0265662,The Rookie,movie,G,2002,127 min,"Drama, Family, Sport","Dennis Quaid, Rachel Griffiths, Jay Hernandez, Beth Grant",English,USA,6.9,"31,236"
+tt0162212,Brink!,movie,TV-G,1998,99 min,"Drama, Family, Sport","Erik von Detten, Sam Horrigan, Christina Vidal, Robin Riker",English,USA,7.1,"5,328"
+tt0217990,Alley Cats Strike,movie,TV-G,2000,103 min,"Drama, Family, Sport","Kyle Schmid, Robert Ri'chard, Kaley Cuoco, Mimi Paley",English,"USA, Canada",6.2,"1,840"
+tt1294226,The Last Song,movie,PG,2010,107 min,"Drama, Music, Romance","Miley Cyrus, Greg Kinnear, Bobby Coleman, Liam Hemsworth",English,USA,6.0,"78,380"
+tt0185007,Whispers: An Elephant's Tale,movie,G,2000,72 min,Family,"Angela Bassett, Joanna Lumley, Anne Archer, Debi Derryberry",English,USA,5.0,252
+tt6176812,The Lodge,series,N/A,2016,22 min,Family,"Luke Newton, Sophie Simnett, Thomas Doherty, Bethan Wright",English,UK,6.5,345
+tt0206446,Yellowstone Cubs,movie,Not Rated,1963,48 min,Family,"Rex Allen, Joe Way",English,USA,6.9,177
+tt1101237,Imagination Movers,series,N/A,2008,30 min,Family,"Rich Collins, Scott Durbin, David Poche, Wendy Calio",English,USA,7.0,682
+tt0430932,Buffalo Dreams,movie,G,2005,89 min,Family,"Simon Baker, Duy Beck, Roy J. Cohoe, Tatiana Galindo",English,USA,5.8,436
+tt0067172,Hacksaw,movie,TV-PG,1971,89 min,Family,"Tab Hunter, Victor Millan, Ray Teal, Russ McCubbin",English,USA,6.2,36
+tt2999390,Super Buddies,movie,G,2013,81 min,Family,"Trey Loney, John Ratzenberger, Michael Teigen, Sam Adler",N/A,USA,4.2,"1,089"
+tt0271172,Jumping Ship,movie,TV-G,2001,93 min,"Family, Adventure, Comedy, Drama","Joey Lawrence, Matthew Lawrence, Andrew Lawrence, Susan Walters",English,"Australia, USA",6.2,"1,603"
+tt0078158,Return from Witch Mountain,movie,G,1978,95 min,"Family, Adventure, Sci-Fi, Fantasy","Bette Davis, Christopher Lee, Kim Richards, Ike Eisenmann",English,USA,5.9,"4,201"
+tt0032815,Mr. Mouse Takes a Trip,movie,N/A,1940,8 min,"Family, Animation, Comedy","Billy Bletcher, Walt Disney, Lee Millar",English,USA,7.2,557
+tt0043428,Corn Chips,movie,APPROVED,1951,7 min,"Family, Animation, Comedy","Dessie Flynn, James MacDonald, Clarence Nash",English,USA,7.4,483
+tt0044835,Let's Stick Together,movie,N/A,1952,7 min,"Family, Animation, Comedy, Short","June Foray, Clarence Nash, Bill Thompson",English,USA,7.0,221
+tt0029188,Magician Mickey,movie,APPROVED,1937,8 min,"Family, Animation, Comedy, Short","Pinto Colvig, Walt Disney, Clarence Nash",English,USA,7.3,818
+tt0027569,Elmer Elephant,movie,APPROVED,1936,9 min,"Family, Animation, Short, Comedy","Pinto Colvig, Bernice Hansen, Clarence Nash",English,USA,7.0,991
+tt0022647,Babes in the Woods,movie,APPROVED,1932,8 min,"Family, Animation, Short, Comedy","Pinto Colvig, Lucille La Verne",English,USA,6.8,799
+tt0116311,First Kid,movie,PG,1996,101 min,"Family, Comedy","Sinbad, Brock Pierce, Blake Boyd, Timothy Busfield",English,USA,5.2,"9,855"
+tt0046932,Dragon Around,movie,N/A,1954,7 min,"Family, Comedy, Animation","Dessie Flynn, James MacDonald, Clarence Nash",English,USA,7.2,345
+tt0025200,The Grasshopper and the Ants,movie,APPROVED,1934,8 min,"Family, Comedy, Animation, Musical, Short",Pinto Colvig,English,USA,7.3,"1,304"
+tt0046125,The New Neighbor,movie,N/A,1953,7 min,"Family, Comedy, Animation, Short","Billy Bletcher, Clarence Nash",English,USA,7.5,292
+tt0035820,Donald's Tire Trouble,movie,N/A,1943,7 min,"Family, Comedy, Animation, Short",Clarence Nash,English,USA,7.0,416
+tt0041112,All in a Nutshell,movie,APPROVED,1949,7 min,"Family, Comedy, Animation, Short","Dessie Flynn, James MacDonald, Clarence Nash",English,USA,7.6,572
+tt0026816,On Ice,movie,N/A,1935,8 min,"Family, Comedy, Animation, Short","Pinto Colvig, Walt Disney, Marcellite Garner, Clarence Nash",English,USA,7.5,"1,056"
+tt0047757,The Mickey Mouse Club,series,TV-G,1955,60 min,"Family, Comedy, Drama, Music","Jimmie Dodd, Tommy Cole",English,USA,7.7,609
+tt0053271,The Shaggy Dog,movie,APPROVED,1959,104 min,"Family, Comedy, Fantasy","Fred MacMurray, Jean Hagen, Tommy Kirk, Annette Funicello",English,USA,6.5,"4,080"
+tt0207972,Annie,movie,UNRATED,1999,90 min,"Family, Comedy, Musical","Kathy Bates, Victor Garber, Alan Cumming, Audra McDonald",English,USA,6.7,"4,380"
+tt0046008,The Living Desert,movie,PASSED,1953,69 min,"Family, Documentary",Winston Hibler,English,USA,7.5,"1,139"
+tt0047803,The African Lion,movie,APPROVED,1955,75 min,"Family, Documentary",Winston Hibler,English,USA,7.3,286
+tt0082017,Amy,movie,G,1981,100 min,"Family, Drama","Jenny Agutter, Barry Newman, Kathleen Nolan, Chris Robinson","English, American Sign Language",USA,6.6,236
+tt0068789,Justin Morgan Had a Horse,movie,TV-G,1972,91 min,"Family, Drama, Western","Don Murray, R.G. Armstrong, Whit Bissell, Gary Crosby",English,USA,6.5,125
+tt0208101,Don't Look Under the Bed,movie,TV-PG,1999,100 min,"Family, Fantasy","Erin Chambers, Ty Hodges, Robin Riker, Steve Valentine",English,USA,6.9,"2,421"
+tt0089731,One Magic Christmas,movie,G,1985,89 min,"Family, Fantasy","Mary Steenburgen, Gary Basaraba, Harry Dean Stanton, Arthur Hill",English,"Canada, USA",6.6,"2,977"
+tt2325989,Teen Beach Movie,movie,Not Rated,2013,110 min,"Family, Fantasy, Musical","Ross Lynch, Maia Mitchell, Gracie Gillam, Garrett Clayton",English,USA,5.9,"8,886"
+tt3764966,Teen Beach 2,movie,TV-G,2015,104 min,"Family, Fantasy, Musical","Ross Lynch, Maia Mitchell, Gracie Gillam, Garrett Clayton",English,USA,6.1,"3,331"
+tt6878820,Z-O-M-B-I-E-S,movie,TV-G,2018,94 min,"Family, Musical, Romance","Milo Manheim, Meg Donnelly, Trevor Tordjman, Kylee Russell",English,USA,6.3,"2,993"
+tt11199552,Family Sundays,series,N/A,2019,N/A,"Family, Reality-TV",Amber Kemp Gerstel,English,USA,6.1,9
+tt1376699,Den Brother,movie,Not Rated,2010,89 min,"Family, Romance, Sport","Hutch Dano, Genevieve Hannelius, Vicki Lewis, Kelsey Asbille",English,USA,5.4,"1,666"
+tt1479534,Skyrunners,movie,TV-PG,2009,92 min,"Family, Sci-Fi","Kelly Blatz, Joey Pollari, Linda Kash, Conrad Coates",English,USA,5.0,"1,022"
+tt0393596,Pixel Perfect,movie,TV-G,2004,85 min,"Family, Sci-Fi, Comedy, Fantasy, Music","Raviv Ullman, Leah Pipes, Spencer Redford, Chad 'Chato' Alger","English, German",USA,5.7,"3,085"
+tt0817307,The Sandlot: Heading Home,movie,PG,2007,96 min,"Family, Sport","Danny Nucci, Luke Perry, Keanu Pires, Sarah Deakins",English,"USA, Canada",5.0,"1,746"
+tt0253550,Ready to Run,movie,TV-G,2000,96 min,"Family, Sport","Krystle Po, Jason Dohring, Lillian Hurst, Jon Brazier",English,"USA, New Zealand",5.3,282
+tt9782756,Apollo: Missions to the Moon,movie,Not Rated,2019,94 min,History,"Buzz Aldrin, Bill Anders, Neil Armstrong, Frank Borman",English,USA,7.7,130
+tt6141006,Drain the Ocean: WWII,movie,TV-PG,2016,44 min,History,"Russell Boulter, James Delgado, Herbert Weatherwax, Scott Pawlowski",English,USA,7.2,49
+tt12076020,A Celebration of the Music from Coco,movie,N/A,2020,N/A,Music,"Benjamin Bratt, Eva Longoria",English,USA,7.6,35
+tt6897772,The Little Mermaid Live!,movie,TV-PG,2019,83 min,Musical,"Auli'i Cravalho, Shaggy, Graham Phillips, Amber Riley",English,USA,5.5,645
+tt6346162,Disney's Newsies: The Broadway Musical!,movie,PG,2017,149 min,Musical,"Jeremy Jordan, Kara Lindsay, Ben Fankhauser, Andrew Keenan-Bolger",English,USA,8.5,"1,703"
+tt7759016,Encore!,series,TV-PG,2019,N/A,"Musical, Reality-TV","Kristen Bell, Matt Fowler, Adam Wachter",English,USA,7.2,235
+tt10219416,Be Our Chef,series,N/A,2020,N/A,N/A,Angela Kinsey,N/A,N/A,N/A,N/A
+tt10225108,Shop Class,series,N/A,2020,N/A,N/A,"Justin Long, Daron Yacoubian",N/A,N/A,6.3,16
+tt7217020,Sharks of Lost Island,movie,N/A,2013,N/A,N/A,N/A,English,USA,N/A,N/A
+tt9236264,Paris to Pittsburgh,movie,N/A,2018,N/A,N/A,Rachel Brosnahan,English,USA,5.9,9
+tt10719984,Expedition Amelia,movie,N/A,2019,N/A,N/A,"Robert Ballard, Fredrik T. Hiebert",N/A,USA,6.9,10
+tt7642482,Holiday Magic,episode,N/A,2017,63 min,N/A,"Stephen Boss, Allison Holker",N/A,N/A,N/A,N/A
+tt11151654,"Dr. T, Lone Star Vet",series,N/A,2019,N/A,Reality-TV,"Chris Payne Gilbert, Lauren Thielen",English,USA,8.9,17
+tt2191567,Wicked Tuna,series,TV-14,2012,60 min,Reality-TV,David C. Marciano,English,USA,6.6,677
+tt8693362,Bug Juice: My Adventures at Camp,series,N/A,2018,22 min,Reality-TV,"Jackson Rozells, Juliet Embry, Scarlett Embry",English,USA,7.3,23
+tt10981266,Dog: Impossible,series,N/A,2019,N/A,Reality-TV,Matt Beisner,N/A,USA,N/A,N/A
+tt3593456,"Dr. Oakley, Yukon Vet",series,N/A,2014,N/A,Reality-TV,"Michelle Oakley, Zac Fine",English,USA,8.1,323
+tt8879238,Secrets of the Zoo,series,N/A,2018,44 min,Reality-TV,Mocean Melvin,N/A,N/A,8.2,76
+tt8053430,Rocky Mountain Animal Rescue,movie,N/A,2018,N/A,Reality-TV,N/A,English,USA,7.8,5
+tt6974848,Disney's Fairy Tale Weddings,series,N/A,2017,63 min,Reality-TV,"Stephen Boss, Allison Holker",English,USA,7.2,47
+tt7775248,Decorating Disney: Holiday Magic,movie,N/A,2017,42 min,Reality-TV,"Whoopi Goldberg, Paul-Dean Martin",English,USA,7.0,40
+tt0087291,Frankenweenie,movie,PG,1984,29 min,"Short, Comedy, Drama, Sci-Fi","Shelley Duvall, Daniel Stern, Barret Oliver, Joseph Maher",English,USA,7.3,"10,736"
+tt4555736,Muppet Moments,series,N/A,2015,N/A,"Short, Family","Bill Barretta, Dave Goelz, Eric Jacobson, Steve Whitmire",English,USA,8.8,6
+tt8884364,Under the Sea: A Descendants Story,movie,N/A,2018,10 min,"Short, Fantasy","Malika Bayerwaltes, Dove Cameron, Anna Cathcart, Thomas Doherty","English, German",N/A,6.1,181
